@@ -833,7 +833,94 @@
         "Refrigerate for at least 30 minutes before serving, or serve immediately. Optionally garnish with a drizzle of peanut butter or crushed peanuts."
       ],
       "added_at": "2026-04-10T23:52:39.161853+00:00"
+    },
+    {
+      "id": "087746b4e368",
+      "title": "High-Protein Cinnamon Rolls",
+      "description": "Easy two-ingredient dough cinnamon rolls made with Greek yogurt and protein flour, delivering over 20 grams of protein per roll. Topped with a creamy vanilla protein icing.",
+      "cuisine": "American",
+      "meal_type": "breakfast",
+      "tags": [
+        "high-protein",
+        "healthy",
+        "low-fat",
+        "meal-prep",
+        "cinnamon rolls",
+        "Greek yogurt dough"
+      ],
+      "thumbnail_url": "/uploads/thumbnails/DWenJbDD19E.jpg",
+      "servings": 4,
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 25,
+      "calories": 210.0,
+      "protein_g": 25.0,
+      "carbs_g": 22.0,
+      "fat_g": 2.0,
+      "ingredients": [
+        {
+          "name": "fat-free greek yogurt",
+          "quantity": 170.0,
+          "unit": "g",
+          "category": "dairy"
+        },
+        {
+          "name": "all-purpose protein flour",
+          "quantity": 132.0,
+          "unit": "g",
+          "category": "pantry"
+        },
+        {
+          "name": "baking powder",
+          "quantity": 0.5,
+          "unit": "tsp",
+          "category": "pantry"
+        },
+        {
+          "name": "salt",
+          "quantity": 0.5,
+          "unit": "tsp",
+          "category": "spice"
+        },
+        {
+          "name": "ground cinnamon",
+          "quantity": 1.5,
+          "unit": "tsp",
+          "category": "spice"
+        },
+        {
+          "name": "cooking spray",
+          "quantity": null,
+          "unit": null,
+          "category": "pantry"
+        },
+        {
+          "name": "vanilla protein powder",
+          "quantity": 1.5,
+          "unit": "scoops",
+          "category": "protein"
+        },
+        {
+          "name": "milk",
+          "quantity": 55.0,
+          "unit": "ml",
+          "category": "dairy"
+        }
+      ],
+      "steps": [
+        "Preheat your oven to 350\u00b0F (175\u00b0C).",
+        "In a mixing bowl, combine 170g fat-free Greek yogurt, 132g protein flour, 1/2 tsp baking powder, and 1/2 tsp salt. Mix until a dough forms.",
+        "Lightly flour your work surface and knead the dough until smooth.",
+        "Flour your rolling pin and roll the dough out into a flat rectangle.",
+        "Slice the dough into even strips.",
+        "Lightly spray or brush each strip with cooking spray or a small amount of oil.",
+        "Generously sprinkle cinnamon over each strip.",
+        "Roll each strip tightly into a small cinnamon roll shape.",
+        "Place the rolls on a baking sheet lined with parchment paper and bake at 350\u00b0F for 20\u201325 minutes, until lightly golden.",
+        "While the rolls bake, prepare the icing by mixing 1.5 scoops of vanilla protein powder with 50\u201360ml of your milk of choice until smooth and drizzleable.",
+        "Remove rolls from the oven, let cool slightly, then drizzle the protein icing over the top and serve."
+      ],
+      "added_at": "2026-04-10T23:56:37.754806+00:00"
     }
   ],
-  "updated_at": "2026-04-10T23:52:39.161923+00:00"
+  "updated_at": "2026-04-10T23:56:37.754848+00:00"
 }

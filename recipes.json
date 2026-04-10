@@ -587,7 +587,103 @@
         "Serve warm, or let cool completely and store in the freezer. Reheat in the microwave or air fryer as needed."
       ],
       "added_at": "2026-04-10T23:40:00.725675+00:00"
+    },
+    {
+      "id": "2b8f1d2922d8",
+      "title": "Seared Ahi Tuna Steaks with Yuzu Soy Dressing",
+      "description": "Quick and easy seared ahi tuna steaks coated in togarashi seasoning, served sliced thin over a yuzu soy dressing with green onions and sesame seeds. A high-protein meal that comes together in minutes.",
+      "cuisine": "Japanese",
+      "meal_type": "dinner",
+      "tags": [
+        "high-protein",
+        "quick",
+        "seafood",
+        "low-carb",
+        "seared",
+        "tuna",
+        "Japanese-inspired"
+      ],
+      "thumbnail_url": "/uploads/thumbnails/DWUFRHhEhCh.jpg",
+      "servings": 2,
+      "prep_time_minutes": 10,
+      "cook_time_minutes": 5,
+      "calories": 290.0,
+      "protein_g": 42.0,
+      "carbs_g": 8.0,
+      "fat_g": 9.0,
+      "ingredients": [
+        {
+          "name": "ahi tuna steaks",
+          "quantity": 2.0,
+          "unit": "steaks",
+          "category": "frozen"
+        },
+        {
+          "name": "neutral oil",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "category": "pantry"
+        },
+        {
+          "name": "togarashi seasoning",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "category": "spice"
+        },
+        {
+          "name": "soy sauce",
+          "quantity": 2.0,
+          "unit": "tablespoons",
+          "category": "pantry"
+        },
+        {
+          "name": "yuzu juice",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "category": "pantry"
+        },
+        {
+          "name": "mirin",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "category": "pantry"
+        },
+        {
+          "name": "rice vinegar",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "category": "pantry"
+        },
+        {
+          "name": "honey",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "category": "pantry"
+        },
+        {
+          "name": "green onions",
+          "quantity": 2.0,
+          "unit": "stalks",
+          "category": "produce"
+        },
+        {
+          "name": "sesame seeds",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "category": "pantry"
+        }
+      ],
+      "steps": [
+        "Make the soy dressing by combining yuzu juice, soy sauce, mirin, rice vinegar, and honey in a small bowl. Whisk together and set aside.",
+        "Thaw the ahi tuna steaks in a glass bowl if frozen. Pat dry with paper towels.",
+        "Coat the tuna steaks lightly with oil and generously season all sides with togarashi seasoning.",
+        "Heat a skillet or cast iron pan over high heat until very hot. Sear the tuna steaks for about 45 seconds per side, leaving the center rare.",
+        "Transfer the seared tuna to the refrigerator for about 3 minutes to stop the cooking process.",
+        "Remove from the fridge and slice the tuna very thin against the grain.",
+        "Spoon the yuzu soy dressing onto a serving plate, arrange the sliced tuna on top, and garnish with sliced green onions and sesame seeds. Serve immediately."
+      ],
+      "added_at": "2026-04-10T23:41:42.219891+00:00"
     }
   ],
-  "updated_at": "2026-04-10T23:40:00.725743+00:00"
+  "updated_at": "2026-04-10T23:41:42.219952+00:00"
 }

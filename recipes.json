@@ -1,0 +1,123 @@
+{
+  "recipes": [
+    {
+      "id": "8077bfb18468",
+      "title": "96 Calorie Protein Cakey Frosted Cosmic Brownie",
+      "description": "A high-protein, low-calorie cakey brownie topped with a creamy chocolate frosting and optional confetti chips. Each brownie is under 100 calories and packed with protein thanks to pumpkin, egg whites, and protein powder.",
+      "cuisine": "American",
+      "meal_type": "snack",
+      "tags": [
+        "high-protein",
+        "low-calorie",
+        "brownie",
+        "dessert",
+        "healthy",
+        "meal-prep",
+        "chocolate"
+      ],
+      "thumbnail_url": "/uploads/thumbnails/DWsC9klgoA_.jpg",
+      "servings": 9,
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 35,
+      "calories": 96.0,
+      "protein_g": 7.75,
+      "carbs_g": 18.5,
+      "fat_g": 1.0,
+      "ingredients": [
+        {
+          "name": "almond milk",
+          "quantity": 1.0,
+          "unit": "cup",
+          "category": "beverage"
+        },
+        {
+          "name": "egg whites",
+          "quantity": 0.5625,
+          "unit": "cup",
+          "category": "protein"
+        },
+        {
+          "name": "canned pumpkin",
+          "quantity": 0.5,
+          "unit": "cup",
+          "category": "produce"
+        },
+        {
+          "name": "all-purpose flour",
+          "quantity": 1.0,
+          "unit": "cup",
+          "category": "pantry"
+        },
+        {
+          "name": "granulated sugar substitute",
+          "quantity": 0.625,
+          "unit": "cup",
+          "category": "pantry"
+        },
+        {
+          "name": "protein powder",
+          "quantity": 1.0,
+          "unit": "scoop",
+          "category": "protein"
+        },
+        {
+          "name": "cocoa powder",
+          "quantity": 0.375,
+          "unit": "cup",
+          "category": "pantry"
+        },
+        {
+          "name": "baking soda",
+          "quantity": 0.75,
+          "unit": "tsp",
+          "category": "pantry"
+        },
+        {
+          "name": "baking powder",
+          "quantity": 0.5,
+          "unit": "tsp",
+          "category": "pantry"
+        },
+        {
+          "name": "greek yogurt",
+          "quantity": 0.75,
+          "unit": "cup",
+          "category": "dairy"
+        },
+        {
+          "name": "confectioners sugar substitute",
+          "quantity": 0.3125,
+          "unit": "cup",
+          "category": "pantry"
+        },
+        {
+          "name": "cocoa powder",
+          "quantity": 0.375,
+          "unit": "cup",
+          "category": "pantry"
+        },
+        {
+          "name": "confetti or candy chips",
+          "quantity": null,
+          "unit": "to taste",
+          "category": "pantry"
+        }
+      ],
+      "steps": [
+        "Preheat oven to 350\u00b0F (175\u00b0C).",
+        "In a mixing bowl, combine the wet ingredients: almond milk, egg whites, and canned pumpkin. Mix well.",
+        "In a separate mixing bowl, combine the dry ingredients: all-purpose flour, granulated sugar substitute, protein powder, cocoa powder, baking soda, and baking powder. Mix well.",
+        "Pour the wet ingredients into the dry ingredients and mix thoroughly until fully combined, making sure to avoid any clumping. Mix again to ensure a smooth batter.",
+        "Spray a large square or rectangular baking dish with cooking spray, or line it with parchment paper.",
+        "Pour the brownie batter into the prepared baking dish and spread evenly.",
+        "Bake at 350\u00b0F for 35 minutes. Remove slightly underdone as they will continue to cook out of the oven.",
+        "While the brownies are baking, combine the frosting ingredients in a mixing bowl: Greek yogurt, confectioners sugar substitute, and cocoa powder. Mix until smooth, then refrigerate for 10 minutes.",
+        "Once brownies are done and have cooled slightly, spread the chilled frosting evenly over the top. Optionally, sprinkle with confetti or candy chips.",
+        "For a firmer frosting, place the frosted brownies in the fridge for an additional 10+ minutes.",
+        "Slice into a 3x3 grid to yield 9 brownies. Serve and enjoy!"
+      ],
+      "added_at": "2026-04-10T18:52:50.145777+00:00"
+    }
+  ],
+  "updated_at": "2026-04-10T18:52:50.145835+00:00"
+}

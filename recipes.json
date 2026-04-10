@@ -767,7 +767,73 @@
         "Refrigerate for a few hours or overnight before serving."
       ],
       "added_at": "2026-04-10T23:52:07.116962+00:00"
+    },
+    {
+      "id": "b04c4c4f315e",
+      "title": "Keto Peanut Butter Mousse",
+      "description": "A fluffy, creamy, and peanut buttery keto-friendly dessert with only 3 net carbs per serving. Quick and easy to make with just a few simple ingredients.",
+      "cuisine": "American",
+      "meal_type": "snack",
+      "tags": [
+        "keto",
+        "low-carb",
+        "no-bake",
+        "dessert",
+        "high-protein",
+        "gluten-free",
+        "mousse",
+        "peanut butter"
+      ],
+      "thumbnail_url": "/uploads/thumbnails/DW12OjOD1hd.jpg",
+      "servings": 4,
+      "prep_time_minutes": 10,
+      "cook_time_minutes": 0,
+      "calories": 390.0,
+      "protein_g": 9.0,
+      "carbs_g": 6.0,
+      "fat_g": 37.0,
+      "ingredients": [
+        {
+          "name": "heavy whipping cream",
+          "quantity": 1.0,
+          "unit": "cup",
+          "category": "dairy"
+        },
+        {
+          "name": "cream cheese",
+          "quantity": 4.0,
+          "unit": "oz",
+          "category": "dairy"
+        },
+        {
+          "name": "natural peanut butter",
+          "quantity": 0.5,
+          "unit": "cup",
+          "category": "pantry"
+        },
+        {
+          "name": "powdered erythritol",
+          "quantity": 0.25,
+          "unit": "cup",
+          "category": "pantry"
+        },
+        {
+          "name": "vanilla extract",
+          "quantity": 1.0,
+          "unit": "tsp",
+          "category": "pantry"
+        }
+      ],
+      "steps": [
+        "In a large mixing bowl, beat the heavy whipping cream with an electric mixer until stiff peaks form. Set aside.",
+        "In a separate bowl, beat together the cream cheese and peanut butter until smooth and well combined.",
+        "Add the powdered erythritol (or preferred keto sweetener) and vanilla extract to the peanut butter mixture and mix until fully incorporated.",
+        "Gently fold the whipped cream into the peanut butter mixture in two or three additions, being careful not to deflate the cream.",
+        "Taste and adjust sweetness if needed. Spoon or pipe the mousse into serving cups.",
+        "Refrigerate for at least 30 minutes before serving, or serve immediately. Optionally garnish with a drizzle of peanut butter or crushed peanuts."
+      ],
+      "added_at": "2026-04-10T23:52:39.161853+00:00"
     }
   ],
-  "updated_at": "2026-04-10T23:52:07.117021+00:00"
+  "updated_at": "2026-04-10T23:52:39.161923+00:00"
 }

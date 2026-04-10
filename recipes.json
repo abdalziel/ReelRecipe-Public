@@ -332,7 +332,108 @@
         "For storage, keep the chicken and sauce in separate airtight containers in the fridge. To reheat, warm chicken in an oven or air fryer at 180\u00b0C (370\u00b0F) for 4-5 minutes, and warm sauce in a pan before assembling fresh wraps."
       ],
       "added_at": "2026-04-10T19:10:20.737009+00:00"
+    },
+    {
+      "id": "ad79b57f77c9",
+      "title": "Loaded Egg Salad",
+      "description": "A hearty and flavorful egg salad loaded with crispy bacon, sun-dried tomatoes, shallots, and fresh dill. Perfect on toast, as a dip, or eaten straight from the container.",
+      "cuisine": "American",
+      "meal_type": "breakfast",
+      "tags": [
+        "egg salad",
+        "meal prep",
+        "easy",
+        "high protein",
+        "bacon",
+        "no-cook after boiling"
+      ],
+      "thumbnail_url": "/uploads/thumbnails/DW1cduoAPHV.jpg",
+      "servings": 6,
+      "prep_time_minutes": 10,
+      "cook_time_minutes": 20,
+      "calories": 420.0,
+      "protein_g": 28.0,
+      "carbs_g": 5.0,
+      "fat_g": 32.0,
+      "ingredients": [
+        {
+          "name": "large eggs",
+          "quantity": 12.0,
+          "unit": "whole",
+          "category": "protein"
+        },
+        {
+          "name": "bacon",
+          "quantity": 12.0,
+          "unit": "oz",
+          "category": "protein"
+        },
+        {
+          "name": "shallots",
+          "quantity": 2.0,
+          "unit": "whole",
+          "category": "produce"
+        },
+        {
+          "name": "sun-dried tomatoes",
+          "quantity": 0.33,
+          "unit": "cup",
+          "category": "pantry"
+        },
+        {
+          "name": "mayonnaise",
+          "quantity": 4.0,
+          "unit": "tablespoons",
+          "category": "pantry"
+        },
+        {
+          "name": "mustard",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "category": "pantry"
+        },
+        {
+          "name": "lemon juice",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "category": "produce"
+        },
+        {
+          "name": "fresh dill",
+          "quantity": 2.0,
+          "unit": "tablespoons",
+          "category": "produce"
+        },
+        {
+          "name": "smoked paprika",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "category": "spice"
+        },
+        {
+          "name": "salt",
+          "quantity": null,
+          "unit": null,
+          "category": "spice"
+        },
+        {
+          "name": "black pepper",
+          "quantity": null,
+          "unit": null,
+          "category": "spice"
+        }
+      ],
+      "steps": [
+        "Place all 12 eggs into a large pot and cover with cold water. Bring to a boil over medium-high heat and cook for 10 minutes.",
+        "While eggs are boiling, cook the entire package of bacon in a skillet over medium heat until crispy. Transfer to a paper towel-lined plate to drain, then chop or crumble into pieces.",
+        "Once eggs are done, transfer them to an ice bath or run under cold water to cool. Peel all the eggs.",
+        "Add the peeled eggs to a large bowl and crack/roughly mash them with a fork or potato masher.",
+        "Add the crispy bacon, diced shallots, chopped sun-dried tomatoes, 2 large spoonfuls of mayonnaise, a spoonful of mustard, a squeeze of lemon juice, chopped fresh dill, and smoked paprika to the bowl.",
+        "Season with salt and pepper to taste.",
+        "Mash and mix everything together until well combined but still slightly chunky. Serve on toast, as a dip, or straight from the container."
+      ],
+      "added_at": "2026-04-10T23:33:48.420839+00:00"
     }
   ],
-  "updated_at": "2026-04-10T19:23:14.103368+00:00"
+  "updated_at": "2026-04-10T23:33:48.420881+00:00"
 }

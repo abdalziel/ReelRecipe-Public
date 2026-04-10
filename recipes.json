@@ -135,7 +135,7 @@
         "easy",
         "healthy"
       ],
-      "thumbnail_url": null,
+      "thumbnail_url": "/uploads/thumbnails/DWeXi3wDI2C.jpg",
       "servings": 10,
       "prep_time_minutes": 15,
       "cook_time_minutes": 25,
@@ -334,5 +334,5 @@
       "added_at": "2026-04-10T19:10:20.737009+00:00"
     }
   ],
-  "updated_at": "2026-04-10T19:10:20.737031+00:00"
+  "updated_at": "2026-04-10T19:23:14.103368+00:00"
 }

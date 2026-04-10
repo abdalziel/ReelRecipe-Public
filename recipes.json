@@ -526,7 +526,68 @@
         "To reheat from fridge: bake wrapped in foil at 350\u00b0F (175\u00b0C) for 10\u201312 minutes. To reheat from frozen: thaw overnight in the fridge, then follow fridge reheating instructions."
       ],
       "added_at": "2026-04-10T23:35:50.584646+00:00"
+    },
+    {
+      "id": "b988c96e4fbd",
+      "title": "Two-Ingredient High Protein Egg Bites",
+      "description": "Fluffy, high-protein egg bites made with just eggs and cottage cheese. A quick and easy homemade alternative to Starbucks egg bites that can be prepped in bulk and frozen for later.",
+      "cuisine": "American",
+      "meal_type": "breakfast",
+      "tags": [
+        "high-protein",
+        "two-ingredient",
+        "meal-prep",
+        "carnivore",
+        "freezer-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "thumbnail_url": "/uploads/thumbnails/DW2SQCYj6s3.jpg",
+      "servings": 12,
+      "prep_time_minutes": 5,
+      "cook_time_minutes": 25,
+      "calories": 70.0,
+      "protein_g": 8.0,
+      "carbs_g": 1.0,
+      "fat_g": 4.0,
+      "ingredients": [
+        {
+          "name": "eggs",
+          "quantity": 6.0,
+          "unit": "whole",
+          "category": "protein"
+        },
+        {
+          "name": "cottage cheese",
+          "quantity": 1.0,
+          "unit": "cup",
+          "category": "dairy"
+        },
+        {
+          "name": "salt",
+          "quantity": 0.25,
+          "unit": "tsp",
+          "category": "spice"
+        },
+        {
+          "name": "butter",
+          "quantity": 1.0,
+          "unit": "tbsp",
+          "category": "dairy"
+        }
+      ],
+      "steps": [
+        "Preheat oven to 350\u00b0F (175\u00b0C).",
+        "Add 6 eggs, 1 cup of cottage cheese, and a pinch of salt to a blender.",
+        "Blend the mixture until smooth and fully combined.",
+        "Grease a 12-cup muffin tin generously with butter.",
+        "Pour the blended egg mixture evenly into each muffin cup, filling about 3/4 of the way.",
+        "Bake in the preheated oven for 22-25 minutes, or until the egg bites are set and lightly golden on top.",
+        "Allow to cool slightly, then pop them out of the muffin tin.",
+        "Serve warm, or let cool completely and store in the freezer. Reheat in the microwave or air fryer as needed."
+      ],
+      "added_at": "2026-04-10T23:40:00.725675+00:00"
     }
   ],
-  "updated_at": "2026-04-10T23:35:50.584677+00:00"
+  "updated_at": "2026-04-10T23:40:00.725743+00:00"
 }

@@ -117,7 +117,222 @@
         "Slice into a 3x3 grid to yield 9 brownies. Serve and enjoy!"
       ],
       "added_at": "2026-04-10T18:52:50.145777+00:00"
+    },
+    {
+      "id": "56ecff5f3b11",
+      "title": "Crispy Garlic Parmesan Chicken Wraps",
+      "description": "Sheet pan crispy garlic parmesan chicken wraps with a creamy garlic parmesan sauce, fresh vegetables, and low-carb wraps. High-protein, low-effort, and perfect for meal prep or feeding a crowd.",
+      "cuisine": "American",
+      "meal_type": "lunch",
+      "tags": [
+        "high-protein",
+        "meal-prep",
+        "sheet-pan",
+        "low-carb",
+        "garlic-parmesan",
+        "chicken",
+        "wrap",
+        "easy",
+        "healthy"
+      ],
+      "thumbnail_url": null,
+      "servings": 10,
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 25,
+      "calories": 423.0,
+      "protein_g": 41.0,
+      "carbs_g": 25.0,
+      "fat_g": 18.0,
+      "ingredients": [
+        {
+          "name": "boneless skinless chicken thighs",
+          "category": "protein",
+          "quantity": 600.0,
+          "unit": "g",
+          "notes": "cut into cubes",
+          "raw_text": "600g Raw Boneless Skinless Chicken Thighs, cut into cubes"
+        },
+        {
+          "name": "chicken breast",
+          "category": "protein",
+          "quantity": 600.0,
+          "unit": "g",
+          "notes": "cut into cubes",
+          "raw_text": "600g Raw Chicken Breast, cut into cubes"
+        },
+        {
+          "name": "salt",
+          "category": "spice",
+          "quantity": 2.5,
+          "unit": "tsp",
+          "notes": null,
+          "raw_text": "2.5 Tsp Salt"
+        },
+        {
+          "name": "chilli flakes",
+          "category": "spice",
+          "quantity": 2.0,
+          "unit": "tsp",
+          "notes": null,
+          "raw_text": "2 Tsp Chilli Flakes"
+        },
+        {
+          "name": "parsley",
+          "category": "spice",
+          "quantity": 3.0,
+          "unit": "tsp",
+          "notes": "plus extra for finishing",
+          "raw_text": "3 Tsp Parsley"
+        },
+        {
+          "name": "italian herbs",
+          "category": "spice",
+          "quantity": 4.0,
+          "unit": "tsp",
+          "notes": "for chicken marinade",
+          "raw_text": "4 Tsp Italian Herbs"
+        },
+        {
+          "name": "paprika",
+          "category": "spice",
+          "quantity": 3.0,
+          "unit": "tsp",
+          "notes": "for chicken marinade",
+          "raw_text": "3 Tsp Paprika"
+        },
+        {
+          "name": "garlic granules",
+          "category": "spice",
+          "quantity": 4.0,
+          "unit": "tsp",
+          "notes": "or garlic powder",
+          "raw_text": "4 Tsp Garlic Granules or Powder"
+        },
+        {
+          "name": "grated parmesan",
+          "category": "dairy",
+          "quantity": 200.0,
+          "unit": "g",
+          "notes": "for chicken marinade; plus extra for finishing",
+          "raw_text": "200g Grated Parmesan"
+        },
+        {
+          "name": "olive oil",
+          "category": "pantry",
+          "quantity": 6.0,
+          "unit": "tsp",
+          "notes": null,
+          "raw_text": "6 Tsp Olive Oil"
+        },
+        {
+          "name": "avocado cooking spray",
+          "category": "pantry",
+          "quantity": null,
+          "unit": null,
+          "notes": "light layer applied before baking",
+          "raw_text": "Avocado Cooking Spray (use before baking)"
+        },
+        {
+          "name": "light evaporated milk",
+          "category": "dairy",
+          "quantity": 350.0,
+          "unit": "g",
+          "notes": null,
+          "raw_text": "350g Light Evaporated Milk"
+        },
+        {
+          "name": "italian herbs",
+          "category": "spice",
+          "quantity": 2.0,
+          "unit": "tsp",
+          "notes": "for sauce",
+          "raw_text": "2 Tsp Italian Herbs"
+        },
+        {
+          "name": "garlic powder",
+          "category": "spice",
+          "quantity": 1.0,
+          "unit": "tsp",
+          "notes": "for sauce",
+          "raw_text": "1 Tsp Garlic Powder"
+        },
+        {
+          "name": "paprika",
+          "category": "spice",
+          "quantity": 1.0,
+          "unit": "tsp",
+          "notes": "for sauce",
+          "raw_text": "1 Tsp Paprika"
+        },
+        {
+          "name": "grated parmesan",
+          "category": "dairy",
+          "quantity": 80.0,
+          "unit": "g",
+          "notes": "for sauce",
+          "raw_text": "80g Grated Parmesan"
+        },
+        {
+          "name": "light cream cheese",
+          "category": "dairy",
+          "quantity": 100.0,
+          "unit": "g",
+          "notes": null,
+          "raw_text": "100g Light Cream Cheese"
+        },
+        {
+          "name": "light butter",
+          "category": "dairy",
+          "quantity": 15.0,
+          "unit": "g",
+          "notes": null,
+          "raw_text": "15g Light Butter"
+        },
+        {
+          "name": "low carb wraps",
+          "category": "pantry",
+          "quantity": 10.0,
+          "unit": "wraps",
+          "notes": "Mission brand recommended",
+          "raw_text": "10 Low Carb Wraps (Brand: Mission)"
+        },
+        {
+          "name": "shredded lettuce",
+          "category": "produce",
+          "quantity": null,
+          "unit": null,
+          "notes": "to taste",
+          "raw_text": "Shredded Lettuce"
+        },
+        {
+          "name": "tomatoes",
+          "category": "produce",
+          "quantity": null,
+          "unit": null,
+          "notes": "chopped, to taste",
+          "raw_text": "Chopped Tomatoes"
+        },
+        {
+          "name": "onions",
+          "category": "produce",
+          "quantity": null,
+          "unit": null,
+          "notes": "chopped, to taste",
+          "raw_text": "Chopped Onions"
+        }
+      ],
+      "steps": [
+        "Slice chicken breast and thighs into cubes. Add salt, chilli flakes, parsley, Italian herbs, paprika, garlic granules, grated parmesan, and olive oil. Mix until all pieces are well coated.",
+        "Line a sheet pan with parchment paper and spread the marinated chicken evenly in a single layer, ensuring not to overcrowd. Spray a light layer of avocado cooking spray over the chicken.",
+        "Bake in a preheated oven at 200\u00b0C (390\u00b0F) for 20-22 minutes until the chicken is cooked through and crispy.",
+        "While the chicken is still hot, sprinkle over extra parmesan cheese and fresh parsley. Toss well until evenly coated and extra cheesy.",
+        "To make the creamy garlic parmesan sauce, melt light butter in a pan over low heat. Add Italian herbs, garlic powder, and paprika, and toast for 1 minute.",
+        "Pour in the light evaporated milk, then add the grated parmesan and light cream cheese. Stir continuously over low heat until the sauce is smooth and creamy. Remove from heat.",
+        "Assemble the wraps: lay out a low-carb wrap and layer with shredded lettuce, chopped tomatoes, chopped onions, a portion of crispy garlic parmesan chicken, and a drizzle of the creamy sauce. Serve immediately and enjoy.",
+        "For storage, keep the chicken and sauce in separate airtight containers in the fridge. To reheat, warm chicken in an oven or air fryer at 180\u00b0C (370\u00b0F) for 4-5 minutes, and warm sauce in a pan before assembling fresh wraps."
+      ],
+      "added_at": "2026-04-10T19:10:20.737009+00:00"
     }
   ],
-  "updated_at": "2026-04-10T18:52:50.145835+00:00"
+  "updated_at": "2026-04-10T19:10:20.737031+00:00"
 }

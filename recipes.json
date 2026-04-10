@@ -433,7 +433,100 @@
         "Mash and mix everything together until well combined but still slightly chunky. Serve on toast, as a dip, or straight from the container."
       ],
       "added_at": "2026-04-10T23:33:48.420839+00:00"
+    },
+    {
+      "id": "5d0a19326851",
+      "title": "Ultimate Breakfast Sandwich",
+      "description": "A massive high-protein breakfast bagel sandwich loaded with top sirloin steak, cheesy scrambled eggs, crispy beef bacon, and a drizzle of honey. Make a batch of eight, freeze them, and reheat for an easy grab-and-go breakfast all week.",
+      "cuisine": "American",
+      "meal_type": "breakfast",
+      "tags": [
+        "high-protein",
+        "meal-prep",
+        "freezer-friendly",
+        "bagel",
+        "steak",
+        "batch-cooking",
+        "gym-food"
+      ],
+      "thumbnail_url": "/uploads/thumbnails/DW2CsnAElmj.jpg",
+      "servings": 8,
+      "prep_time_minutes": 10,
+      "cook_time_minutes": 25,
+      "calories": 767.0,
+      "protein_g": 70.0,
+      "carbs_g": 55.0,
+      "fat_g": 28.0,
+      "ingredients": [
+        {
+          "name": "plain bagels",
+          "quantity": 8.0,
+          "unit": "bagels",
+          "category": "pantry"
+        },
+        {
+          "name": "top sirloin steak",
+          "quantity": 34.0,
+          "unit": "oz",
+          "category": "protein"
+        },
+        {
+          "name": "eggs",
+          "quantity": 8.0,
+          "unit": "large",
+          "category": "protein"
+        },
+        {
+          "name": "low-fat cheddar cheese",
+          "quantity": 1.5,
+          "unit": "cups",
+          "category": "dairy"
+        },
+        {
+          "name": "beef bacon",
+          "quantity": 8.0,
+          "unit": "strips",
+          "category": "protein"
+        },
+        {
+          "name": "honey",
+          "quantity": 4.0,
+          "unit": "tbsp",
+          "category": "pantry"
+        },
+        {
+          "name": "salt",
+          "quantity": null,
+          "unit": null,
+          "category": "spice"
+        },
+        {
+          "name": "black pepper",
+          "quantity": null,
+          "unit": null,
+          "category": "spice"
+        },
+        {
+          "name": "garlic powder",
+          "quantity": null,
+          "unit": null,
+          "category": "spice"
+        }
+      ],
+      "steps": [
+        "Season the top sirloin with salt, pepper, and garlic powder on all sides.",
+        "Cook the steak in a pan over medium heat for a few minutes per side until it reaches an internal temperature of 125\u00b0F (52\u00b0C), then remove from the pan and let it rest for 5 minutes.",
+        "Dice the rested steak into bite-sized pieces and set aside.",
+        "In the same pan, cook the beef bacon strips until crisp, then remove and set aside, leaving the drippings in the pan.",
+        "Crack the eggs into the pan with the drippings and scramble or fry as preferred.",
+        "Top the eggs with the shredded low-fat cheddar cheese and allow it to melt completely.",
+        "Slice the bagels and toast them cut-side down in the same pan, soaking up the remaining juices, until golden brown.",
+        "Assemble each sandwich by layering diced steak, cheesy eggs, and crispy beef bacon onto the toasted bagel bottom, then finish with a drizzle of honey and cap with the bagel top.",
+        "To store, wrap each sandwich individually in foil and refrigerate for up to 4 days or freeze for longer storage.",
+        "To reheat from fridge: bake wrapped in foil at 350\u00b0F (175\u00b0C) for 10\u201312 minutes. To reheat from frozen: thaw overnight in the fridge, then follow fridge reheating instructions."
+      ],
+      "added_at": "2026-04-10T23:35:50.584646+00:00"
     }
   ],
-  "updated_at": "2026-04-10T23:33:48.420881+00:00"
+  "updated_at": "2026-04-10T23:35:50.584677+00:00"
 }

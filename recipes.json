@@ -920,7 +920,85 @@
         "Remove rolls from the oven, let cool slightly, then drizzle the protein icing over the top and serve."
       ],
       "added_at": "2026-04-10T23:56:37.754806+00:00"
+    },
+    {
+      "id": "66c07b26c629",
+      "title": "Protein Oreo Cheesecake Cups (Cottage Cheese)",
+      "description": "A high-protein, no-bake cheesecake cup made with cottage cheese and Oreo cookies. Each serving delivers around 308 calories and 34g of protein.",
+      "cuisine": "American",
+      "meal_type": "snack",
+      "tags": [
+        "high-protein",
+        "no-bake",
+        "dessert",
+        "cheesecake",
+        "cottage cheese",
+        "oreo",
+        "meal prep"
+      ],
+      "thumbnail_url": "/uploads/thumbnails/DUqdyqujXeT.jpg",
+      "servings": 4,
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 0,
+      "calories": 308.0,
+      "protein_g": 34.0,
+      "carbs_g": 22.0,
+      "fat_g": 9.0,
+      "ingredients": [
+        {
+          "name": "cottage cheese",
+          "quantity": 1.0,
+          "unit": "cup",
+          "category": "dairy"
+        },
+        {
+          "name": "cream cheese",
+          "quantity": 4.0,
+          "unit": "oz",
+          "category": "dairy"
+        },
+        {
+          "name": "protein powder",
+          "quantity": 1.0,
+          "unit": "scoop",
+          "category": "protein"
+        },
+        {
+          "name": "oreo cookies",
+          "quantity": 8.0,
+          "unit": "cookies",
+          "category": "pantry"
+        },
+        {
+          "name": "butter",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "category": "dairy"
+        },
+        {
+          "name": "vanilla extract",
+          "quantity": 1.0,
+          "unit": "teaspoon",
+          "category": "pantry"
+        },
+        {
+          "name": "sweetener",
+          "quantity": 2.0,
+          "unit": "tablespoons",
+          "category": "pantry"
+        }
+      ],
+      "steps": [
+        "Add Oreo cookies to a food processor or zip-lock bag and crush into fine crumbs.",
+        "Mix crushed Oreo crumbs with a small amount of melted butter until combined, then press into the bottom of small cups or jars to form the crust layer.",
+        "In a blender or food processor, combine cottage cheese, cream cheese, vanilla extract, and sweetener of choice. Blend until completely smooth and creamy.",
+        "Fold in vanilla or cookies-and-cream flavored protein powder into the cheesecake mixture and stir until fully incorporated.",
+        "Spoon or pipe the cheesecake filling on top of the Oreo crust in each cup.",
+        "Optionally, top each cup with crushed Oreo pieces or a whole mini Oreo for garnish.",
+        "Refrigerate for at least 1-2 hours until set, then serve chilled."
+      ],
+      "added_at": "2026-04-10T23:57:27.816252+00:00"
     }
   ],
-  "updated_at": "2026-04-10T23:56:37.754848+00:00"
+  "updated_at": "2026-04-10T23:57:27.816298+00:00"
 }

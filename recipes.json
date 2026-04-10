@@ -683,7 +683,91 @@
         "Spoon the yuzu soy dressing onto a serving plate, arrange the sliced tuna on top, and garnish with sliced green onions and sesame seeds. Serve immediately."
       ],
       "added_at": "2026-04-10T23:41:42.219891+00:00"
+    },
+    {
+      "id": "c9d3859e0bf9",
+      "title": "Tiramisu Bowl",
+      "description": "A high-protein twist on classic tiramisu made with vanilla Greek yogurt, espresso, and ladyfinger cookies. Ready in minutes and best enjoyed after chilling overnight.",
+      "cuisine": "Italian",
+      "meal_type": "snack",
+      "tags": [
+        "high-protein",
+        "no-cook",
+        "meal-prep",
+        "tiramisu",
+        "dessert",
+        "healthy",
+        "gym-food"
+      ],
+      "thumbnail_url": "/uploads/thumbnails/DWMzr89Egga.jpg",
+      "servings": 4,
+      "prep_time_minutes": 10,
+      "cook_time_minutes": 0,
+      "calories": 280.0,
+      "protein_g": 26.0,
+      "carbs_g": 40.0,
+      "fat_g": 2.0,
+      "ingredients": [
+        {
+          "name": "nonfat vanilla greek yogurt",
+          "quantity": 908.0,
+          "unit": "g",
+          "category": "dairy"
+        },
+        {
+          "name": "brewed espresso",
+          "quantity": 2.0,
+          "unit": "tbsp",
+          "category": "beverage"
+        },
+        {
+          "name": "espresso powder",
+          "quantity": 1.0,
+          "unit": "tsp",
+          "category": "pantry"
+        },
+        {
+          "name": "vanilla bean paste",
+          "quantity": 1.0,
+          "unit": "tsp",
+          "category": "pantry"
+        },
+        {
+          "name": "maple syrup",
+          "quantity": 2.0,
+          "unit": "tbsp",
+          "category": "pantry"
+        },
+        {
+          "name": "ladyfinger cookies",
+          "quantity": 8.0,
+          "unit": "cookies",
+          "category": "pantry"
+        },
+        {
+          "name": "cocoa powder",
+          "quantity": 1.0,
+          "unit": "tbsp",
+          "category": "pantry"
+        },
+        {
+          "name": "salt",
+          "quantity": null,
+          "unit": "pinch",
+          "category": "spice"
+        }
+      ],
+      "steps": [
+        "Add nonfat vanilla Greek yogurt to a large mixing bowl.",
+        "Pour in the cooled brewed espresso and mix until smooth.",
+        "Add espresso powder, vanilla bean paste, and a pinch of salt, then stir until fully combined.",
+        "Add maple syrup and stir again until everything is well incorporated.",
+        "Break or layer in the ladyfinger cookies and gently fold into the mixture.",
+        "Sprinkle cocoa powder evenly over the top.",
+        "Refrigerate for a few hours or overnight before serving."
+      ],
+      "added_at": "2026-04-10T23:52:07.116962+00:00"
     }
   ],
-  "updated_at": "2026-04-10T23:41:42.219952+00:00"
+  "updated_at": "2026-04-10T23:52:07.117021+00:00"
 }

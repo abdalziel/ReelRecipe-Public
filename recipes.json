@@ -1395,7 +1395,91 @@
         "Divide the jasmine rice into bowls. Top with the Korean beef mixture, a fried egg, and sliced green onions. Serve immediately."
       ],
       "added_at": "2026-04-11T00:21:14.043575+00:00"
+    },
+    {
+      "id": "9b27ec26f56e",
+      "title": "The OG Chicken Crust Pizza",
+      "description": "A high-protein, low-calorie pizza made with a ground chicken crust, topped with classic pizza sauce and fat-free mozzarella. Under 500 calories and packed with 67g of protein.",
+      "cuisine": "American",
+      "meal_type": "dinner",
+      "tags": [
+        "high-protein",
+        "low-calorie",
+        "gluten-friendly",
+        "chicken-crust",
+        "pizza",
+        "healthy"
+      ],
+      "thumbnail_url": "/uploads/thumbnails/DTu_BopEnVv_mid.jpg",
+      "servings": 1,
+      "prep_time_minutes": 10,
+      "cook_time_minutes": 20,
+      "calories": 485,
+      "protein_g": 67,
+      "carbs_g": 29,
+      "fat_g": 7,
+      "ingredients": [
+        {
+          "raw_text": "225g minced / ground chicken",
+          "name": "ground chicken",
+          "quantity": 225.0,
+          "unit": "g",
+          "notes": "minced or ground",
+          "category": "protein"
+        },
+        {
+          "raw_text": "1/4 cup oat flour",
+          "name": "oat flour",
+          "quantity": 0.25,
+          "unit": "cup",
+          "notes": null,
+          "category": "pantry"
+        },
+        {
+          "raw_text": "1/2 tsp garlic salt",
+          "name": "garlic salt",
+          "quantity": 0.5,
+          "unit": "tsp",
+          "notes": null,
+          "category": "spice"
+        },
+        {
+          "raw_text": "1/4 cup pizza sauce",
+          "name": "pizza sauce",
+          "quantity": 0.25,
+          "unit": "cup",
+          "notes": null,
+          "category": "pantry"
+        },
+        {
+          "raw_text": "1.5 oz mozzarella cheese fat free",
+          "name": "mozzarella cheese",
+          "quantity": 1.5,
+          "unit": "oz",
+          "notes": "fat-free",
+          "category": "dairy"
+        },
+        {
+          "raw_text": "Parsley",
+          "name": "fresh parsley",
+          "quantity": null,
+          "unit": null,
+          "notes": "for garnish",
+          "category": "produce"
+        }
+      ],
+      "steps": [
+        "Preheat your oven to 400\u00b0F (200\u00b0C) and line a baking sheet or pizza pan with parchment paper.",
+        "In a bowl, combine the ground chicken, oat flour, and garlic salt. Mix until well combined.",
+        "Press the chicken mixture onto the prepared pan into a thin, round pizza crust shape, about 1/4 inch thick.",
+        "Bake the crust for 12\u201315 minutes, or until cooked through and lightly golden.",
+        "Remove from the oven and spread the pizza sauce evenly over the crust.",
+        "Sprinkle the fat-free mozzarella cheese on top.",
+        "Return to the oven and bake for an additional 5 minutes, or until the cheese is melted and bubbly.",
+        "Garnish with fresh parsley and serve immediately."
+      ],
+      "added_at": "2026-04-11T00:22:39.957645+00:00"
     }
   ],
-  "updated_at": "2026-04-11T00:21:14.043617+00:00"
+  "updated_at": "2026-04-11T00:22:39.957702+00:00"
 }

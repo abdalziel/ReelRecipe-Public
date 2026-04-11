@@ -1723,7 +1723,157 @@
         "Divide evenly into 5 meal prep containers and refrigerate for up to 5 days."
       ],
       "added_at": "2026-04-11T00:24:34.783217+00:00"
+    },
+    {
+      "id": "da993f3f67d4",
+      "title": "High-Protein Banza Beef Pasta Bake",
+      "description": "A hearty, macro-friendly pasta bake made with lean ground beef, Banza chickpea pasta, and a creamy blended cottage cheese tomato sauce. Perfect for meal prepping all week to maximize protein intake.",
+      "cuisine": "Italian-American",
+      "meal_type": "dinner",
+      "tags": [
+        "high-protein",
+        "meal-prep",
+        "pasta",
+        "beef",
+        "bulking",
+        "budget-friendly",
+        "gluten-free"
+      ],
+      "thumbnail_url": "/uploads/thumbnails/DSm9eP9kUfN_mid.jpg",
+      "servings": 5,
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 35,
+      "calories": 845,
+      "protein_g": 85,
+      "carbs_g": 72,
+      "fat_g": 22,
+      "ingredients": [
+        {
+          "raw_text": "2 lb 93/7 ground beef",
+          "name": "93/7 lean ground beef",
+          "quantity": 2.0,
+          "unit": "lbs",
+          "notes": "93% lean, 7% fat",
+          "category": "protein"
+        },
+        {
+          "raw_text": "2 boxes Banza pasta",
+          "name": "Banza chickpea pasta",
+          "quantity": 2.0,
+          "unit": "boxes",
+          "notes": "Any shape; cook according to package instructions",
+          "category": "pantry"
+        },
+        {
+          "raw_text": "550g fat-free cottage cheese",
+          "name": "fat-free cottage cheese",
+          "quantity": 550.0,
+          "unit": "g",
+          "notes": "Blended into sauce for creaminess",
+          "category": "dairy"
+        },
+        {
+          "raw_text": "80g parmesan",
+          "name": "parmesan cheese",
+          "quantity": 80.0,
+          "unit": "g",
+          "notes": "Grated; blended into sauce",
+          "category": "dairy"
+        },
+        {
+          "raw_text": "1 bag fat-free mozzarella",
+          "name": "fat-free shredded mozzarella cheese",
+          "quantity": 1.0,
+          "unit": "bag",
+          "notes": "Approximately 8 oz bag; used as topping",
+          "category": "dairy"
+        },
+        {
+          "raw_text": "12 oz marinara",
+          "name": "marinara sauce",
+          "quantity": 12.0,
+          "unit": "oz",
+          "notes": "Blended into cheesy tomato sauce",
+          "category": "pantry"
+        },
+        {
+          "raw_text": "\u00bd cup fat-free milk",
+          "name": "fat-free milk",
+          "quantity": 0.5,
+          "unit": "cup",
+          "notes": "Blended into sauce to thin consistency",
+          "category": "dairy"
+        },
+        {
+          "raw_text": "1 sweet onion",
+          "name": "sweet onion",
+          "quantity": 1.0,
+          "unit": "whole",
+          "notes": "Diced",
+          "category": "produce"
+        },
+        {
+          "raw_text": "1 green pepper",
+          "name": "green bell pepper",
+          "quantity": 1.0,
+          "unit": "whole",
+          "notes": "Diced",
+          "category": "produce"
+        },
+        {
+          "raw_text": "3 cloves garlic",
+          "name": "garlic",
+          "quantity": 3.0,
+          "unit": "cloves",
+          "notes": "Blended into sauce",
+          "category": "produce"
+        },
+        {
+          "raw_text": "1 tablespoon salt",
+          "name": "salt",
+          "quantity": 1.0,
+          "unit": "tablespoon",
+          "notes": "Season to taste",
+          "category": "spice"
+        },
+        {
+          "raw_text": "black pepper to taste",
+          "name": "black pepper",
+          "quantity": null,
+          "unit": "to taste",
+          "notes": null,
+          "category": "spice"
+        },
+        {
+          "raw_text": "paprika to taste",
+          "name": "paprika",
+          "quantity": null,
+          "unit": "to taste",
+          "notes": null,
+          "category": "spice"
+        },
+        {
+          "raw_text": "\u00bd tablespoon Italian seasoning",
+          "name": "Italian seasoning",
+          "quantity": 0.5,
+          "unit": "tablespoon",
+          "notes": null,
+          "category": "spice"
+        }
+      ],
+      "steps": [
+        "Dice the sweet onion and green pepper into bite-sized pieces.",
+        "Heat a large skillet or pan over medium-high heat. Add the diced green pepper and onion and saut\u00e9 for 3-4 minutes until softened.",
+        "Add 2 lbs of 93/7 ground beef to the pan with the vegetables. Season with 1 tablespoon of salt, black pepper, paprika, and Italian seasoning. Cook, breaking up the meat, until fully browned. Let the beef fat absorb into the peppers and onions for added flavor. Drain any excess fat if desired.",
+        "While the beef cooks, boil both boxes of Banza pasta according to package instructions. Drain and set aside.",
+        "In a blender, combine the 12 oz marinara sauce, 3 cloves of garlic, 80g parmesan, 550g fat-free cottage cheese, and \u00bd cup fat-free milk. Blend until smooth and creamy to create the cheesy tomato sauce.",
+        "In a large pot or deep baking dish, combine the cooked pasta, the beef, pepper, and onion mixture, and pour in the blended cheesy tomato sauce. Stir to combine evenly.",
+        "Top with the entire bag of fat-free mozzarella cheese.",
+        "Bake at 375\u00b0F (190\u00b0C) for 15-20 minutes until the mozzarella is melted and bubbly, or heat through on the stovetop over medium-low heat until everything is warmed and the cheese is melted.",
+        "Divide into 5 equal servings and store in meal prep containers for the week."
+      ],
+      "added_at": "2026-04-11T00:28:41.854910+00:00"
     }
   ],
-  "updated_at": "2026-04-11T00:24:34.783246+00:00"
+  "updated_at": "2026-04-11T00:28:41.854974+00:00"
 }

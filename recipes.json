@@ -1149,7 +1149,122 @@
         "Garnish with sesame seeds and additional sliced scallions. Serve immediately."
       ],
       "added_at": "2026-04-11T00:16:30.012523+00:00"
+    },
+    {
+      "id": "559c5b4dc343",
+      "title": "Overnight Chocolate Chip Protein Cookie Dough",
+      "description": "A high-protein, edible cookie dough made with vanilla protein powder and Greek yogurt. Refrigerate overnight for a thick, scoopable treat that tastes indulgent but fits your macros.",
+      "cuisine": "American",
+      "meal_type": "snack",
+      "tags": [
+        "high-protein",
+        "no-bake",
+        "low-calorie",
+        "meal-prep",
+        "dessert",
+        "cookie dough",
+        "overnight"
+      ],
+      "thumbnail_url": "/uploads/thumbnails/DWly2K6j0m__mid.jpg",
+      "servings": 1,
+      "prep_time_minutes": 5,
+      "cook_time_minutes": 0,
+      "calories": 328,
+      "protein_g": 33,
+      "carbs_g": 32,
+      "fat_g": 9,
+      "ingredients": [
+        {
+          "raw_text": "1 scoop vanilla protein powder (35g)",
+          "name": "vanilla protein powder",
+          "quantity": 35.0,
+          "unit": "g",
+          "notes": "1 scoop",
+          "category": "protein"
+        },
+        {
+          "raw_text": "30g oat flour",
+          "name": "oat flour",
+          "quantity": 30.0,
+          "unit": "g",
+          "notes": null,
+          "category": "pantry"
+        },
+        {
+          "raw_text": "1/4 tsp baking soda",
+          "name": "baking soda",
+          "quantity": 0.25,
+          "unit": "tsp",
+          "notes": null,
+          "category": "pantry"
+        },
+        {
+          "raw_text": "1/2 tsp vanilla extract",
+          "name": "vanilla extract",
+          "quantity": 0.5,
+          "unit": "tsp",
+          "notes": null,
+          "category": "pantry"
+        },
+        {
+          "raw_text": "1/2 tsp salt",
+          "name": "salt",
+          "quantity": 0.5,
+          "unit": "tsp",
+          "notes": null,
+          "category": "spice"
+        },
+        {
+          "raw_text": "30g nonfat Greek yogurt",
+          "name": "nonfat Greek yogurt",
+          "quantity": 30.0,
+          "unit": "g",
+          "notes": null,
+          "category": "dairy"
+        },
+        {
+          "raw_text": "50g water, added slowly depending on your protein powder",
+          "name": "water",
+          "quantity": 50.0,
+          "unit": "g",
+          "notes": "add slowly; adjust amount based on your protein powder's absorbency",
+          "category": "beverage"
+        },
+        {
+          "raw_text": "12g mini chocolate chips",
+          "name": "mini chocolate chips",
+          "quantity": 12.0,
+          "unit": "g",
+          "notes": null,
+          "category": "pantry"
+        },
+        {
+          "raw_text": "1/2 tsp butter extract",
+          "name": "butter extract",
+          "quantity": 0.5,
+          "unit": "tsp",
+          "notes": null,
+          "category": "pantry"
+        },
+        {
+          "raw_text": "granulated stevia, to taste",
+          "name": "granulated stevia",
+          "quantity": null,
+          "unit": null,
+          "notes": "to taste",
+          "category": "pantry"
+        }
+      ],
+      "steps": [
+        "In a bowl, combine the vanilla protein powder, oat flour, baking soda, and salt. Mix the dry ingredients together until well combined.",
+        "Add the nonfat Greek yogurt, vanilla extract, and butter extract to the dry ingredients and stir to combine.",
+        "Slowly add water a little at a time, mixing as you go, until the batter comes together. The texture should resemble cake batter at this stage \u2014 adjust water amount based on your protein powder's absorbency.",
+        "Taste the mixture and add granulated stevia to your preferred sweetness level. Fold in the mini chocolate chips.",
+        "Cover the bowl and refrigerate for 3\u20134 hours (or overnight). The mixture will thicken into a scoopable, cookie dough-like consistency.",
+        "Serve cold, directly from the fridge, and enjoy by the bowlful."
+      ],
+      "added_at": "2026-04-11T00:19:26.498760+00:00"
     }
   ],
-  "updated_at": "2026-04-11T00:16:30.012650+00:00"
+  "updated_at": "2026-04-11T00:19:26.498811+00:00"
 }

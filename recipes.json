@@ -998,7 +998,158 @@
         "Refrigerate for at least 1-2 hours until set, then serve chilled."
       ],
       "added_at": "2026-04-10T23:57:27.816252+00:00"
+    },
+    {
+      "id": "81ba1554b035",
+      "title": "Spicy Tuna Crispy Rice",
+      "description": "Golden, pan-fried sushi rice squares topped with a creamy, spicy tuna mixture and fresh avocado. A restaurant-style appetizer that's bold, satisfying, and visually stunning.",
+      "cuisine": "Japanese-Fusion",
+      "meal_type": "snack",
+      "tags": [
+        "spicy",
+        "sushi",
+        "crispy rice",
+        "tuna",
+        "viral",
+        "appetizer",
+        "gluten-free-adaptable"
+      ],
+      "thumbnail_url": "/uploads/thumbnails/DWTr4cNgLKl_mid.jpg",
+      "servings": 6,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "calories": 420,
+      "protein_g": 28,
+      "carbs_g": 42,
+      "fat_g": 15,
+      "ingredients": [
+        {
+          "raw_text": "3 cans tuna",
+          "name": "canned tuna",
+          "quantity": 3.0,
+          "unit": "cans",
+          "notes": "drained, approximately 5 oz each",
+          "category": "protein"
+        },
+        {
+          "raw_text": "3 tbsp mayonnaise",
+          "name": "mayonnaise",
+          "quantity": 3.0,
+          "unit": "tbsp",
+          "notes": null,
+          "category": "pantry"
+        },
+        {
+          "raw_text": "2 tbsp sriracha",
+          "name": "sriracha",
+          "quantity": 2.0,
+          "unit": "tbsp",
+          "notes": "adjust to taste",
+          "category": "pantry"
+        },
+        {
+          "raw_text": "1 tbsp sesame oil",
+          "name": "sesame oil",
+          "quantity": 1.0,
+          "unit": "tbsp",
+          "notes": null,
+          "category": "pantry"
+        },
+        {
+          "raw_text": "1 tsp soy sauce",
+          "name": "soy sauce",
+          "quantity": 1.0,
+          "unit": "tsp",
+          "notes": null,
+          "category": "pantry"
+        },
+        {
+          "raw_text": "\u00bd lemon (juice)",
+          "name": "lemon",
+          "quantity": 0.5,
+          "unit": "whole",
+          "notes": "juiced",
+          "category": "produce"
+        },
+        {
+          "raw_text": "\u00bc cup scallions",
+          "name": "scallions",
+          "quantity": 0.25,
+          "unit": "cup",
+          "notes": "thinly sliced, plus more for garnish",
+          "category": "produce"
+        },
+        {
+          "raw_text": "3 cups sushi rice",
+          "name": "sushi rice",
+          "quantity": 3.0,
+          "unit": "cups",
+          "notes": "uncooked, short-grain",
+          "category": "pantry"
+        },
+        {
+          "raw_text": "\u00bc cup seasoned rice vinegar",
+          "name": "seasoned rice vinegar",
+          "quantity": 0.25,
+          "unit": "cup",
+          "notes": null,
+          "category": "pantry"
+        },
+        {
+          "raw_text": "vegetable oil for frying",
+          "name": "vegetable oil",
+          "quantity": 0.5,
+          "unit": "cup",
+          "notes": "enough for shallow frying",
+          "category": "pantry"
+        },
+        {
+          "raw_text": "avocado",
+          "name": "avocado",
+          "quantity": 2.0,
+          "unit": "whole",
+          "notes": "sliced",
+          "category": "produce"
+        },
+        {
+          "raw_text": "lemon and salt to taste",
+          "name": "lemon",
+          "quantity": 0.5,
+          "unit": "whole",
+          "notes": "for seasoning avocado",
+          "category": "produce"
+        },
+        {
+          "raw_text": "salt to taste",
+          "name": "salt",
+          "quantity": null,
+          "unit": "to taste",
+          "notes": null,
+          "category": "spice"
+        },
+        {
+          "raw_text": "sesame seeds to taste",
+          "name": "sesame seeds",
+          "quantity": null,
+          "unit": "to taste",
+          "notes": "for garnish",
+          "category": "spice"
+        }
+      ],
+      "steps": [
+        "Cook 3 cups of sushi rice according to package instructions. Once cooked, fold in \u00bc cup of seasoned rice vinegar while the rice is still warm.",
+        "Line a baking tray or rectangular dish with plastic wrap. Spread and press the seasoned rice firmly and evenly into the tray to create a compact, uniform layer about 1 inch thick.",
+        "Cover with plastic wrap and refrigerate overnight (at least 8 hours) until the rice is firm and cold.",
+        "The next day, remove the rice from the tray and cut it into small, even rectangles or squares approximately 1.5 x 2.5 inches.",
+        "In a mixing bowl, combine the drained tuna, mayonnaise, sriracha, sesame oil, soy sauce, juice of half a lemon, and chopped scallions. Mix well until fully combined. Taste and adjust seasoning.",
+        "Heat a generous amount of vegetable oil in a skillet over medium-high heat. Once the oil is hot and shimmering, fry the rice pieces in batches for 2-3 minutes per side until golden brown and crispy. Do not overcrowd the pan.",
+        "Remove the crispy rice pieces and drain on a paper towel-lined plate.",
+        "Slice the avocado and season with lemon juice and salt to taste.",
+        "To assemble, place a slice of avocado on each crispy rice piece, then top with a spoonful of the spicy tuna mixture.",
+        "Garnish with sesame seeds and additional sliced scallions. Serve immediately."
+      ],
+      "added_at": "2026-04-11T00:16:30.012523+00:00"
     }
   ],
-  "updated_at": "2026-04-10T23:57:27.816298+00:00"
+  "updated_at": "2026-04-11T00:16:30.012650+00:00"
 }

@@ -1873,7 +1873,151 @@
         "Divide into 5 equal servings and store in meal prep containers for the week."
       ],
       "added_at": "2026-04-11T00:28:41.854910+00:00"
+    },
+    {
+      "id": "a4d29ca8cb0b",
+      "title": "High Protein Beef Bacon Pasta",
+      "description": "A hearty, high-protein meal prep pasta featuring ground beef, beef bacon, peppers, onions, and a creamy blended cottage cheese sauce. Makes 10 meals at approximately 600 calories each.",
+      "cuisine": "American",
+      "meal_type": "dinner",
+      "tags": [
+        "meal prep",
+        "high protein",
+        "high volume",
+        "ground beef",
+        "pasta",
+        "healthy",
+        "bulk cooking"
+      ],
+      "thumbnail_url": "/uploads/thumbnails/DTT4e4VkeOM_mid.jpg",
+      "servings": 10,
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 40,
+      "calories": 600,
+      "protein_g": 67,
+      "carbs_g": 45,
+      "fat_g": 18,
+      "ingredients": [
+        {
+          "raw_text": "3 bell peppers, chopped",
+          "name": "bell peppers",
+          "quantity": 3.0,
+          "unit": "whole",
+          "notes": "any color, chopped",
+          "category": "produce"
+        },
+        {
+          "raw_text": "2 large onions, chopped",
+          "name": "yellow onion",
+          "quantity": 2.0,
+          "unit": "large",
+          "notes": "chopped",
+          "category": "produce"
+        },
+        {
+          "raw_text": "3 pounds 96/4 ground beef",
+          "name": "lean ground beef",
+          "quantity": 3.0,
+          "unit": "lbs",
+          "notes": "96/4 lean-to-fat ratio",
+          "category": "protein"
+        },
+        {
+          "raw_text": "20 slices beef bacon",
+          "name": "beef bacon",
+          "quantity": 20.0,
+          "unit": "slices",
+          "notes": "cook and reserve grease",
+          "category": "protein"
+        },
+        {
+          "raw_text": "8 servings protein pasta, 16 ounces",
+          "name": "protein pasta",
+          "quantity": 16.0,
+          "unit": "oz",
+          "notes": "any variety, dry",
+          "category": "pantry"
+        },
+        {
+          "raw_text": "880g low-fat cottage cheese",
+          "name": "low-fat cottage cheese",
+          "quantity": 880.0,
+          "unit": "g",
+          "notes": null,
+          "category": "dairy"
+        },
+        {
+          "raw_text": "30g honey",
+          "name": "honey",
+          "quantity": 30.0,
+          "unit": "g",
+          "notes": null,
+          "category": "pantry"
+        },
+        {
+          "raw_text": "1 bag fat-free mozzarella cheese",
+          "name": "fat-free mozzarella cheese",
+          "quantity": 1.0,
+          "unit": "bag",
+          "notes": "approximately 8 oz bag, shredded",
+          "category": "dairy"
+        },
+        {
+          "raw_text": "50g 1/3-fat cream cheese",
+          "name": "reduced-fat cream cheese",
+          "quantity": 50.0,
+          "unit": "g",
+          "notes": "1/3 less fat variety",
+          "category": "dairy"
+        },
+        {
+          "raw_text": "50g Pecorino Romano",
+          "name": "Pecorino Romano",
+          "quantity": 50.0,
+          "unit": "g",
+          "notes": "grated",
+          "category": "dairy"
+        },
+        {
+          "raw_text": "300ml fat-free Fairlife milk",
+          "name": "fat-free Fairlife milk",
+          "quantity": 300.0,
+          "unit": "ml",
+          "notes": "high-protein milk",
+          "category": "dairy"
+        },
+        {
+          "raw_text": "pepper to taste",
+          "name": "black pepper",
+          "quantity": null,
+          "unit": null,
+          "notes": "to taste",
+          "category": "spice"
+        },
+        {
+          "raw_text": "seasonings for peppers and onions",
+          "name": "seasoning blend",
+          "quantity": null,
+          "unit": null,
+          "notes": "use preferred seasonings for saut\u00e9ing vegetables; go light as bacon adds significant flavor",
+          "category": "spice"
+        }
+      ],
+      "steps": [
+        "Chop 3 bell peppers and 2 large onions into bite-sized pieces.",
+        "Heat a large skillet over high heat and cook the chopped bell peppers and onions with your preferred seasonings until softened and slightly charred.",
+        "Add 3 pounds of 96/4 lean ground beef to the skillet with the peppers and onions. Break up and cook the beef thoroughly.",
+        "In a separate pan, cook 20 slices of beef bacon until crispy. Reserve the bacon grease.",
+        "Once the bacon is cooked, add the bacon and reserved grease back into the beef, peppers, and onions. Note: do not heavily season the meat mixture \u2014 the bacon provides most of the flavor.",
+        "Boil 8 servings (16 ounces) of your preferred protein pasta according to package instructions. Drain and set aside.",
+        "To make the sauce, combine 880g low-fat cottage cheese, 30g honey, 1 bag fat-free mozzarella cheese, 50g 1/3-fat cream cheese, 50g Pecorino Romano, and 300ml fat-free Fairlife milk in a blender. Add pepper to taste and blend until completely smooth.",
+        "In a large pot, combine the cooked pasta, beef and bacon mixture, and the blended cheese sauce. Stir to combine.",
+        "Let the mixture simmer together for 10\u201315 minutes over low heat, stirring occasionally, until the sauce thickens and everything is well incorporated.",
+        "Divide evenly into 10 meal prep containers (approximately 16.9\u201317.2 oz each). Refrigerate or freeze.",
+        "To reheat from refrigerator: microwave for 1 minute 30 seconds. To reheat from frozen: microwave 1 minute 30 seconds, stir, then microwave an additional 45 seconds."
+      ],
+      "added_at": "2026-04-11T01:23:15.204762+00:00"
     }
   ],
-  "updated_at": "2026-04-11T00:28:41.854974+00:00"
+  "updated_at": "2026-04-11T01:23:15.204814+00:00"
 }

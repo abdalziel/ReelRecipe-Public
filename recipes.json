@@ -1573,7 +1573,157 @@
         "To reheat: microwave in the parchment paper for about 1 minute (from fridge) or 2\u20133 minutes (from frozen), which steams the wrap. Alternatively, unwrap and crisp in a hot skillet for best texture."
       ],
       "added_at": "2026-04-11T00:23:41.035803+00:00"
+    },
+    {
+      "id": "d1454f975072",
+      "title": "Spicy Alfredo Chicken Pasta Meal Prep",
+      "description": "A high-protein meal prep featuring seasoned chicken breast and Banza pasta tossed in a creamy spicy cottage cheese Alfredo sauce. Makes 5 servings perfect for hitting your macros on a budget.",
+      "cuisine": "Italian-American",
+      "meal_type": "dinner",
+      "tags": [
+        "meal prep",
+        "high protein",
+        "pasta",
+        "budget friendly",
+        "healthy",
+        "chicken",
+        "alfredo"
+      ],
+      "thumbnail_url": "/uploads/thumbnails/DTiLmVLEWdT_mid.jpg",
+      "servings": 5,
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 30,
+      "calories": 781,
+      "protein_g": 85,
+      "carbs_g": 72,
+      "fat_g": 18,
+      "ingredients": [
+        {
+          "raw_text": "2 lb chicken breast",
+          "name": "chicken breast",
+          "quantity": 2.0,
+          "unit": "lbs",
+          "notes": null,
+          "category": "protein"
+        },
+        {
+          "raw_text": "2 boxes Banza chickpea pasta",
+          "name": "Banza chickpea pasta",
+          "quantity": 2.0,
+          "unit": "boxes",
+          "notes": "cooked according to package directions",
+          "category": "pantry"
+        },
+        {
+          "raw_text": "550g fat-free cottage cheese",
+          "name": "fat-free cottage cheese",
+          "quantity": 550.0,
+          "unit": "g",
+          "notes": null,
+          "category": "dairy"
+        },
+        {
+          "raw_text": "80g reduced-fat cream cheese",
+          "name": "reduced-fat cream cheese",
+          "quantity": 80.0,
+          "unit": "g",
+          "notes": null,
+          "category": "dairy"
+        },
+        {
+          "raw_text": "1 bag parmesan cheese",
+          "name": "shredded Parmesan cheese",
+          "quantity": 1.0,
+          "unit": "bag",
+          "notes": "approximately 5 oz / 140g bag",
+          "category": "dairy"
+        },
+        {
+          "raw_text": "1 red bell pepper",
+          "name": "red bell pepper",
+          "quantity": 1.0,
+          "unit": "whole",
+          "notes": "diced",
+          "category": "produce"
+        },
+        {
+          "raw_text": "1 cup fat-free milk",
+          "name": "fat-free milk",
+          "quantity": 1.0,
+          "unit": "cup",
+          "notes": null,
+          "category": "dairy"
+        },
+        {
+          "raw_text": "10g hot sauce",
+          "name": "hot sauce",
+          "quantity": 10.0,
+          "unit": "g",
+          "notes": "approximately 2 teaspoons",
+          "category": "pantry"
+        },
+        {
+          "raw_text": "2 teaspoons salt",
+          "name": "salt",
+          "quantity": 2.0,
+          "unit": "teaspoons",
+          "notes": null,
+          "category": "spice"
+        },
+        {
+          "raw_text": "black pepper to taste",
+          "name": "black pepper",
+          "quantity": 2.0,
+          "unit": "teaspoons",
+          "notes": "to taste",
+          "category": "spice"
+        },
+        {
+          "raw_text": "garlic powder to taste",
+          "name": "garlic powder",
+          "quantity": 2.0,
+          "unit": "teaspoons",
+          "notes": "to taste",
+          "category": "spice"
+        },
+        {
+          "raw_text": "onion powder to taste",
+          "name": "onion powder",
+          "quantity": 2.0,
+          "unit": "teaspoons",
+          "notes": "to taste",
+          "category": "spice"
+        },
+        {
+          "raw_text": "paprika to taste",
+          "name": "paprika",
+          "quantity": 2.0,
+          "unit": "teaspoons",
+          "notes": "to taste",
+          "category": "spice"
+        },
+        {
+          "raw_text": "Italian seasoning to taste",
+          "name": "Italian seasoning",
+          "quantity": 2.0,
+          "unit": "teaspoons",
+          "notes": "to taste",
+          "category": "spice"
+        }
+      ],
+      "steps": [
+        "Dice one red bell pepper into small pieces and set aside.",
+        "Season 2 lbs of chicken breast with 2 teaspoons each of salt, black pepper, garlic powder, onion powder, paprika, and Italian seasoning.",
+        "Heat a pan over medium-high heat and cook the seasoned chicken until golden brown and cooked through (internal temperature of 165\u00b0F). Set aside and slice or cube.",
+        "Cook both boxes of Banza chickpea pasta according to package directions. Drain and set aside.",
+        "To make the spicy Alfredo sauce, add 550g fat-free cottage cheese, the diced red bell pepper, 80g reduced-fat cream cheese, 10g hot sauce, and 1 cup of fat-free milk into a blender.",
+        "Blend the sauce mixture until completely smooth and creamy.",
+        "In a large pot or bowl, combine the cooked Banza pasta and sliced chicken.",
+        "Add the entire bag of Parmesan cheese and pour in the blended spicy Alfredo sauce. Toss everything together until well coated.",
+        "Divide evenly into 5 meal prep containers and refrigerate for up to 5 days."
+      ],
+      "added_at": "2026-04-11T00:24:34.783217+00:00"
     }
   ],
-  "updated_at": "2026-04-11T00:23:41.035846+00:00"
+  "updated_at": "2026-04-11T00:24:34.783246+00:00"
 }

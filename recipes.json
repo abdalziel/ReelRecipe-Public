@@ -1264,7 +1264,138 @@
         "Serve cold, directly from the fridge, and enjoy by the bowlful."
       ],
       "added_at": "2026-04-11T00:19:26.498760+00:00"
+    },
+    {
+      "id": "f050250a099a",
+      "title": "Korean Beef Rice Bowls",
+      "description": "A quick and flavorful Korean-inspired ground beef rice bowl with a savory-sweet soy garlic sauce, served over jasmine rice and topped with a runny fried egg and green onions. A comforting weeknight dinner that comes together in under 30 minutes.",
+      "cuisine": "Korean",
+      "meal_type": "dinner",
+      "tags": [
+        "quick",
+        "easy",
+        "korean",
+        "ground beef",
+        "rice bowl",
+        "comfort food",
+        "weeknight dinner"
+      ],
+      "thumbnail_url": "/uploads/thumbnails/DTYKfU2goJz_mid.jpg",
+      "servings": 2,
+      "prep_time_minutes": 10,
+      "cook_time_minutes": 20,
+      "calories": 720,
+      "protein_g": 42,
+      "carbs_g": 68,
+      "fat_g": 28,
+      "ingredients": [
+        {
+          "raw_text": "1 LB ground beef",
+          "name": "ground beef",
+          "quantity": 1.0,
+          "unit": "lb",
+          "notes": null,
+          "category": "protein"
+        },
+        {
+          "raw_text": "To taste salt",
+          "name": "salt",
+          "quantity": null,
+          "unit": null,
+          "notes": "to taste",
+          "category": "spice"
+        },
+        {
+          "raw_text": "To taste pepper",
+          "name": "black pepper",
+          "quantity": null,
+          "unit": null,
+          "notes": "to taste",
+          "category": "spice"
+        },
+        {
+          "raw_text": "1 cup jasmine rice",
+          "name": "jasmine rice",
+          "quantity": 1.0,
+          "unit": "cup",
+          "notes": null,
+          "category": "pantry"
+        },
+        {
+          "raw_text": "1 cup water",
+          "name": "water",
+          "quantity": 1.0,
+          "unit": "cup",
+          "notes": "for cooking rice",
+          "category": "beverage"
+        },
+        {
+          "raw_text": "1/4 cup low sodium soy sauce",
+          "name": "low sodium soy sauce",
+          "quantity": 0.25,
+          "unit": "cup",
+          "notes": null,
+          "category": "pantry"
+        },
+        {
+          "raw_text": "3 garlic cloves (fine chop)",
+          "name": "garlic",
+          "quantity": 3.0,
+          "unit": "cloves",
+          "notes": "finely chopped",
+          "category": "produce"
+        },
+        {
+          "raw_text": "1 tsp sesame oil",
+          "name": "sesame oil",
+          "quantity": 1.0,
+          "unit": "tsp",
+          "notes": null,
+          "category": "pantry"
+        },
+        {
+          "raw_text": "1/4 cup brown sugar",
+          "name": "brown sugar",
+          "quantity": 0.25,
+          "unit": "cup",
+          "notes": null,
+          "category": "pantry"
+        },
+        {
+          "raw_text": "Sliced green onion",
+          "name": "green onion",
+          "quantity": 2.0,
+          "unit": "stalks",
+          "notes": "sliced, for garnish",
+          "category": "produce"
+        },
+        {
+          "raw_text": "1 Large Egg",
+          "name": "egg",
+          "quantity": 1.0,
+          "unit": null,
+          "notes": "large, fried with runny yolk",
+          "category": "dairy"
+        },
+        {
+          "raw_text": "1 tbsp canola oil",
+          "name": "canola oil",
+          "quantity": 1.0,
+          "unit": "tbsp",
+          "notes": "for frying the egg",
+          "category": "pantry"
+        }
+      ],
+      "steps": [
+        "Cook jasmine rice by combining 1 cup jasmine rice with 1 cup water in a saucepan. Bring to a boil, then reduce heat to low, cover, and simmer for 15 minutes until water is absorbed. Fluff with a fork and set aside.",
+        "In a small bowl, whisk together the low sodium soy sauce, sesame oil, finely chopped garlic, and brown sugar until the sugar is dissolved. Set the sauce aside.",
+        "Heat a large skillet over medium-high heat. Add the ground beef and season with salt and pepper. Break the beef down very fine as it cooks.",
+        "Once the beef is mostly cooked through but still slightly pink, pour in the sauce mixture and stir to combine. Continue cooking for 2-3 minutes until the sauce is absorbed and the beef is fully cooked and glossy.",
+        "In a separate small skillet, heat 1 tablespoon of canola oil over medium heat. Crack in the egg and fry until the whites are set but the yolk remains runny, about 2-3 minutes.",
+        "Divide the jasmine rice into bowls. Top with the Korean beef mixture, a fried egg, and sliced green onions. Serve immediately."
+      ],
+      "added_at": "2026-04-11T00:21:14.043575+00:00"
     }
   ],
-  "updated_at": "2026-04-11T00:19:26.498811+00:00"
+  "updated_at": "2026-04-11T00:21:14.043617+00:00"
 }

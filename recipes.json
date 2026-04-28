@@ -2017,7 +2017,655 @@
         "To reheat from refrigerator: microwave for 1 minute 30 seconds. To reheat from frozen: microwave 1 minute 30 seconds, stir, then microwave an additional 45 seconds."
       ],
       "added_at": "2026-04-11T01:23:15.204762+00:00"
+    },
+    {
+      "id": "eaa774c98feb",
+      "title": "Oat Recharge Smoothie",
+      "description": "A creamy, comforting smoothie that blends the soluble fiber of oats with the anti-inflammatory benefits of cinnamon. Ideal for those with sensitive stomachs, it helps regulate digestion and keeps you feeling satisfied for longer.",
+      "cuisine": "American",
+      "meal_type": "breakfast",
+      "tags": [
+        "smoothie",
+        "gut-health",
+        "high-fiber",
+        "digestive",
+        "quick",
+        "healthy",
+        "gluten-free option"
+      ],
+      "thumbnail_url": null,
+      "servings": 1,
+      "prep_time_minutes": 5,
+      "cook_time_minutes": 0,
+      "calories": 86.0,
+      "protein_g": 18.0,
+      "carbs_g": 28.0,
+      "fat_g": 4.0,
+      "ingredients": [
+        {
+          "name": "banana",
+          "quantity": 0.5,
+          "unit": "whole",
+          "notes": "fresh or frozen",
+          "raw_text": "\u00bd banana (fresh or frozen)",
+          "category": "frozen"
+        },
+        {
+          "name": "rolled oats",
+          "quantity": 0.25,
+          "unit": "cup",
+          "notes": null,
+          "raw_text": "\u00bc cup rolled oats",
+          "category": "pantry"
+        },
+        {
+          "name": "plain greek yoghurt",
+          "quantity": 0.5,
+          "unit": "cup",
+          "notes": "or dairy-free alternative",
+          "raw_text": "\u00bd cup plain Greek yoghurt (or dairy-free alternative)",
+          "category": "dairy"
+        },
+        {
+          "name": "unsweetened almond milk",
+          "quantity": 0.5,
+          "unit": "cup",
+          "notes": "or milk of choice",
+          "raw_text": "\u00bd cup unsweetened almond milk (or milk of choice)",
+          "category": "beverage"
+        },
+        {
+          "name": "ground cinnamon",
+          "quantity": 0.5,
+          "unit": "tsp",
+          "notes": null,
+          "raw_text": "\u00bd tsp ground cinnamon",
+          "category": "spice"
+        },
+        {
+          "name": "chia seeds",
+          "quantity": 1.0,
+          "unit": "tsp",
+          "notes": "optional, for extra fibre",
+          "raw_text": "1 tsp chia seeds (optional, for extra fibre)",
+          "category": "pantry"
+        },
+        {
+          "name": "protein powder",
+          "quantity": 1.0,
+          "unit": "scoop",
+          "notes": "unflavored or vanilla",
+          "raw_text": "1 scoop unflavored or vanilla protein powder",
+          "category": "protein"
+        },
+        {
+          "name": "ice",
+          "quantity": 1.0,
+          "unit": "handful",
+          "notes": null,
+          "raw_text": "Handful of ice",
+          "category": "other"
+        }
+      ],
+      "steps": [
+        "Add the rolled oats to the blender first to allow them to break down more easily.",
+        "Add the banana (fresh or frozen), plain Greek yoghurt, and unsweetened almond milk.",
+        "Add the ground cinnamon, chia seeds (if using), and protein powder.",
+        "Add a handful of ice.",
+        "Blend on high until smooth and creamy.",
+        "Pour into a glass and serve immediately."
+      ],
+      "added_at": "2026-04-28T03:31:47.599974+00:00"
+    },
+    {
+      "id": "dd8740ef34bc",
+      "title": "Pineapple Power Smoothie",
+      "description": "A gut-health smoothie that blends probiotic-rich yoghurt with the digestive benefits of pineapple to support gut health and alleviate feelings of bloating. Creamy, tangy, and packed with nutrients to help refuel and recover after a high-intensity workout.",
+      "cuisine": "American",
+      "meal_type": "snack",
+      "tags": [
+        "smoothie",
+        "gut-health",
+        "post-workout",
+        "high-protein",
+        "gluten-free",
+        "dairy-free option"
+      ],
+      "thumbnail_url": null,
+      "servings": 1,
+      "prep_time_minutes": 5,
+      "cook_time_minutes": 0,
+      "calories": 80.0,
+      "protein_g": 18.0,
+      "carbs_g": 28.0,
+      "fat_g": 4.0,
+      "ingredients": [
+        {
+          "name": "pineapple",
+          "quantity": 0.5,
+          "unit": "cup",
+          "notes": "fresh or frozen",
+          "raw_text": "\u00bd cup fresh or frozen pineapple",
+          "category": "produce"
+        },
+        {
+          "name": "banana",
+          "quantity": 0.5,
+          "unit": null,
+          "notes": "frozen",
+          "raw_text": "\u00bd frozen banana",
+          "category": "frozen"
+        },
+        {
+          "name": "plain greek yoghurt",
+          "quantity": 0.5,
+          "unit": "cup",
+          "notes": "or coconut yoghurt for a dairy-free option",
+          "raw_text": "\u00bd cup plain Greek yoghurt (or coconut yoghurt for a dairy-free option)",
+          "category": "dairy"
+        },
+        {
+          "name": "unsweetened almond milk",
+          "quantity": 0.5,
+          "unit": "cup",
+          "notes": "or milk of choice",
+          "raw_text": "\u00bd cup unsweetened almond milk (or milk of choice)",
+          "category": "beverage"
+        },
+        {
+          "name": "flaxseeds",
+          "quantity": 1.0,
+          "unit": "tsp",
+          "notes": "for fibre and healthy fats",
+          "raw_text": "1 tsp flaxseeds (for fibre and healthy fats)",
+          "category": "pantry"
+        },
+        {
+          "name": "vanilla protein powder",
+          "quantity": 1.0,
+          "unit": "scoop",
+          "notes": null,
+          "raw_text": "1 scoop vanilla protein powder",
+          "category": "protein"
+        },
+        {
+          "name": "ice",
+          "quantity": 1.0,
+          "unit": "handful",
+          "notes": null,
+          "raw_text": "Handful of ice",
+          "category": "other"
+        }
+      ],
+      "steps": [
+        "Add the fresh or frozen pineapple and frozen banana to a blender.",
+        "Add the plain Greek yoghurt (or coconut yoghurt for a dairy-free option) and unsweetened almond milk.",
+        "Add the flaxseeds and vanilla protein powder.",
+        "Add a handful of ice.",
+        "Blend on high until smooth and creamy.",
+        "Pour into a glass and serve immediately."
+      ],
+      "added_at": "2026-04-28T03:31:47.600013+00:00"
+    },
+    {
+      "id": "74af7ef82b7e",
+      "title": "Coconut Cucumber Tonic",
+      "description": "A light, refreshing and hydrating gut-healing smoothie perfect for after a cardio workout. Cucumber supports digestion and hydration, while coconut water delivers electrolytes, with mint and lime adding a zesty finish.",
+      "cuisine": "American",
+      "meal_type": "snack",
+      "tags": [
+        "smoothie",
+        "healthy",
+        "post-workout",
+        "hydrating",
+        "gut-health",
+        "low-calorie",
+        "refreshing"
+      ],
+      "thumbnail_url": null,
+      "servings": 1,
+      "prep_time_minutes": 5,
+      "cook_time_minutes": 0,
+      "calories": 69.0,
+      "protein_g": 15.0,
+      "carbs_g": 18.0,
+      "fat_g": 1.0,
+      "ingredients": [
+        {
+          "name": "cucumber",
+          "quantity": 0.5,
+          "unit": "cup",
+          "notes": "peeled and chopped",
+          "raw_text": "\u00bd cup cucumber, peeled and chopped",
+          "category": "produce"
+        },
+        {
+          "name": "banana",
+          "quantity": 0.5,
+          "unit": null,
+          "notes": "frozen",
+          "raw_text": "\u00bd frozen banana",
+          "category": "frozen"
+        },
+        {
+          "name": "coconut water",
+          "quantity": 0.5,
+          "unit": "cup",
+          "notes": null,
+          "raw_text": "\u00bd cup coconut water",
+          "category": "beverage"
+        },
+        {
+          "name": "unsweetened almond milk",
+          "quantity": 0.5,
+          "unit": "cup",
+          "notes": "or any milk of choice",
+          "raw_text": "\u00bd cup unsweetened almond milk (or any milk of choice)",
+          "category": "beverage"
+        },
+        {
+          "name": "lime",
+          "quantity": 0.5,
+          "unit": null,
+          "notes": "juiced",
+          "raw_text": "Juice of \u00bd lime",
+          "category": "produce"
+        },
+        {
+          "name": "fresh mint leaves",
+          "quantity": 1.0,
+          "unit": "small handful",
+          "notes": null,
+          "raw_text": "Small handful of fresh mint leaves",
+          "category": "produce"
+        },
+        {
+          "name": "protein powder",
+          "quantity": 1.0,
+          "unit": "scoop",
+          "notes": "unflavored or vanilla",
+          "raw_text": "1 scoop unflavored or vanilla protein powder",
+          "category": "protein"
+        },
+        {
+          "name": "ice",
+          "quantity": 1.0,
+          "unit": "handful",
+          "notes": null,
+          "raw_text": "Handful of ice",
+          "category": "other"
+        }
+      ],
+      "steps": [
+        "Peel and chop the cucumber into rough chunks.",
+        "Add the cucumber, frozen banana, coconut water, and almond milk to a blender.",
+        "Squeeze in the juice of half a lime.",
+        "Add the fresh mint leaves and protein powder.",
+        "Add a handful of ice.",
+        "Blend until smooth and creamy.",
+        "Pour into a glass and serve immediately."
+      ],
+      "added_at": "2026-04-28T03:31:47.600037+00:00"
+    },
+    {
+      "id": "1bc7bf569821",
+      "title": "Afterburn Elixir",
+      "description": "A gut-healing smoothie harnessing the anti-inflammatory properties of turmeric and ginger with a fiber boost from banana. Supports immune health and is ideal pre-workout.",
+      "cuisine": "American",
+      "meal_type": "breakfast",
+      "tags": [
+        "smoothie",
+        "anti-inflammatory",
+        "gut health",
+        "immune support",
+        "pre-workout",
+        "quick",
+        "healthy"
+      ],
+      "thumbnail_url": null,
+      "servings": 1,
+      "prep_time_minutes": 5,
+      "cook_time_minutes": 0,
+      "calories": 74.0,
+      "protein_g": 15.0,
+      "carbs_g": 30.0,
+      "fat_g": 3.0,
+      "ingredients": [
+        {
+          "name": "banana",
+          "quantity": 1.0,
+          "unit": "whole",
+          "notes": "frozen",
+          "raw_text": "1 frozen banana",
+          "category": "frozen"
+        },
+        {
+          "name": "ground turmeric",
+          "quantity": 0.5,
+          "unit": "tsp",
+          "notes": null,
+          "raw_text": "\u00bd tsp ground turmeric",
+          "category": "spice"
+        },
+        {
+          "name": "fresh grated ginger",
+          "quantity": 0.5,
+          "unit": "tsp",
+          "notes": "or ground ginger",
+          "raw_text": "\u00bd tsp fresh grated ginger (or ground ginger)",
+          "category": "produce"
+        },
+        {
+          "name": "vanilla protein powder",
+          "quantity": 1.0,
+          "unit": "scoop",
+          "notes": null,
+          "raw_text": "1 scoop vanilla protein powder",
+          "category": "protein"
+        },
+        {
+          "name": "unsweetened oat milk",
+          "quantity": 1.0,
+          "unit": "cup",
+          "notes": "or milk of choice",
+          "raw_text": "1 cup unsweetened oat milk (or milk of choice)",
+          "category": "beverage"
+        },
+        {
+          "name": "flaxseed",
+          "quantity": 1.0,
+          "unit": "tsp",
+          "notes": "optional, for fibre",
+          "raw_text": "1 tsp flaxseed (optional, for fibre)",
+          "category": "pantry"
+        },
+        {
+          "name": "black pepper",
+          "quantity": 1.0,
+          "unit": "pinch",
+          "notes": "to enhance turmeric absorption",
+          "raw_text": "Pinch of black pepper (to enhance turmeric absorption)",
+          "category": "spice"
+        },
+        {
+          "name": "ice",
+          "quantity": 1.0,
+          "unit": "handful",
+          "notes": "optional",
+          "raw_text": "Handful of ice (optional)",
+          "category": "other"
+        }
+      ],
+      "steps": [
+        "Add the frozen banana, ground turmeric, fresh grated ginger, and vanilla protein powder to a blender.",
+        "Pour in 1 cup of unsweetened oat milk.",
+        "Add flaxseed and a pinch of black pepper if using.",
+        "Add a handful of ice if desired.",
+        "Blend until smooth and creamy.",
+        "Pour into a glass and serve immediately."
+      ],
+      "added_at": "2026-04-28T03:31:47.600059+00:00"
+    },
+    {
+      "id": "a1338df8083b",
+      "title": "Berry Blitz",
+      "description": "A gut-health smoothie bursting with antioxidants and natural sweetness that supports digestion and helps reduce inflammation. Packed with mixed berries and a creamy base, it's a delicious way to nourish your gut and keep your energy steady.",
+      "cuisine": "American",
+      "meal_type": "breakfast",
+      "tags": [
+        "smoothie",
+        "gut-health",
+        "antioxidants",
+        "anti-inflammatory",
+        "quick",
+        "healthy",
+        "dairy-free"
+      ],
+      "thumbnail_url": "https://reelrecipe.ai/uploads/thumbnails/recipe_13_cover.jpeg",
+      "servings": 1,
+      "prep_time_minutes": 5,
+      "cook_time_minutes": 0,
+      "calories": 67.0,
+      "protein_g": 3.0,
+      "carbs_g": 14.0,
+      "fat_g": 2.0,
+      "ingredients": [
+        {
+          "name": "mixed berries",
+          "quantity": 1.0,
+          "unit": "cup",
+          "notes": "strawberries, blueberries, raspberries",
+          "raw_text": "1 cup mixed berries (strawberries, blueberries, raspberries)",
+          "category": "produce"
+        },
+        {
+          "name": "frozen banana",
+          "quantity": 0.5,
+          "unit": null,
+          "notes": "freeze ripe bananas in advance",
+          "raw_text": "\u00bd frozen banana",
+          "category": "frozen"
+        },
+        {
+          "name": "protein powder",
+          "quantity": 1.0,
+          "unit": "scoop",
+          "notes": "optional",
+          "raw_text": "1 scoop protein powder (optional)",
+          "category": "protein"
+        },
+        {
+          "name": "unsweetened almond milk",
+          "quantity": 1.0,
+          "unit": "cup",
+          "notes": "or milk of choice",
+          "raw_text": "1 cup unsweetened almond milk (or milk of choice)",
+          "category": "beverage"
+        },
+        {
+          "name": "flaxseeds",
+          "quantity": 1.0,
+          "unit": "tsp",
+          "notes": "optional, for extra fibre",
+          "raw_text": "1 tsp flaxseeds (optional, for extra fibre)",
+          "category": "pantry"
+        },
+        {
+          "name": "ice",
+          "quantity": 1.0,
+          "unit": "handful",
+          "notes": "optional",
+          "raw_text": "Handful of ice (optional)",
+          "category": "other"
+        }
+      ],
+      "steps": [
+        "If using fresh bananas, freeze them ahead of time for best texture.",
+        "Add the mixed berries (strawberries, blueberries, raspberries) into a blender.",
+        "Add the frozen banana half to the blender.",
+        "Pour in the unsweetened almond milk.",
+        "Add protein powder and flaxseeds if using.",
+        "Add a handful of ice if desired.",
+        "Blend on high until smooth and creamy.",
+        "Pour into a glass and serve immediately."
+      ],
+      "added_at": "2026-04-28T03:31:47.600075+00:00"
+    },
+    {
+      "id": "dd0c666d1112",
+      "title": "Green Giant",
+      "description": "A gut-healing green smoothie packed with nutrients and gentle to digest. Loaded with leafy greens, hydrating cucumber, and gut-friendly ingredients to keep your body balanced and calories low.",
+      "cuisine": "American",
+      "meal_type": "snack",
+      "tags": [
+        "healthy",
+        "gut-health",
+        "low-calorie",
+        "smoothie",
+        "vegan",
+        "gluten-free",
+        "quick"
+      ],
+      "thumbnail_url": "https://reelrecipe.ai/uploads/thumbnails/recipe_12_cover.jpeg",
+      "servings": 1,
+      "prep_time_minutes": 5,
+      "cook_time_minutes": 0,
+      "calories": 150.0,
+      "protein_g": 2.0,
+      "carbs_g": 32.0,
+      "fat_g": 1.0,
+      "ingredients": [
+        {
+          "name": "fresh spinach",
+          "quantity": 1.0,
+          "unit": "cup",
+          "notes": null,
+          "raw_text": "1 cup fresh spinach",
+          "category": "produce"
+        },
+        {
+          "name": "cucumber",
+          "quantity": 0.5,
+          "unit": "whole",
+          "notes": "peeled and chopped",
+          "raw_text": "\u00bd cucumber, peeled and chopped",
+          "category": "produce"
+        },
+        {
+          "name": "green apple",
+          "quantity": 1.0,
+          "unit": "whole",
+          "notes": "cored and sliced",
+          "raw_text": "1 green apple, cored and sliced",
+          "category": "produce"
+        },
+        {
+          "name": "fresh lemon juice",
+          "quantity": 1.0,
+          "unit": "tbsp",
+          "notes": null,
+          "raw_text": "1 tbsp fresh lemon juice",
+          "category": "produce"
+        },
+        {
+          "name": "ginger",
+          "quantity": 1.0,
+          "unit": "tsp",
+          "notes": "freshly grated",
+          "raw_text": "1 tsp grated ginger",
+          "category": "produce"
+        },
+        {
+          "name": "coconut water",
+          "quantity": 1.0,
+          "unit": "cup",
+          "notes": "or plain water",
+          "raw_text": "1 cup coconut water (or water)",
+          "category": "beverage"
+        },
+        {
+          "name": "ice",
+          "quantity": 1.0,
+          "unit": "handful",
+          "notes": "optional",
+          "raw_text": "Handful of ice (optional)",
+          "category": "other"
+        }
+      ],
+      "steps": [
+        "Wash and prepare all fresh ingredients: rinse spinach, peel and chop cucumber, core and slice green apple.",
+        "Grate 1 teaspoon of fresh ginger.",
+        "Squeeze 1 tablespoon of fresh lemon juice.",
+        "Add spinach, cucumber, green apple, lemon juice, grated ginger, and coconut water (or water) into a blender.",
+        "Add a handful of ice if desired.",
+        "Blend on high until smooth and creamy.",
+        "Pour into a glass and serve immediately."
+      ],
+      "added_at": "2026-04-28T03:31:47.600091+00:00"
+    },
+    {
+      "id": "31c9e8bb09d2",
+      "title": "Matcha Muscle",
+      "description": "A performance-boosting smoothie combining antioxidants from matcha, fiber from banana, and muscle-repairing protein powder to drive performance and elevate recovery after a resistance workout.",
+      "cuisine": "American",
+      "meal_type": "snack",
+      "tags": [
+        "smoothie",
+        "post-workout",
+        "high-protein",
+        "healthy",
+        "quick",
+        "gluten-free",
+        "vegan-adaptable"
+      ],
+      "thumbnail_url": "https://reelrecipe.ai/uploads/thumbnails/recipe_11_cover.jpeg",
+      "servings": 1,
+      "prep_time_minutes": 5,
+      "cook_time_minutes": 0,
+      "calories": 320.0,
+      "protein_g": 25.0,
+      "carbs_g": 35.0,
+      "fat_g": 5.0,
+      "ingredients": [
+        {
+          "name": "banana",
+          "quantity": 1.0,
+          "unit": "whole",
+          "notes": "frozen",
+          "raw_text": "1 frozen banana",
+          "category": "frozen"
+        },
+        {
+          "name": "matcha powder",
+          "quantity": 1.0,
+          "unit": "tsp",
+          "notes": null,
+          "raw_text": "1 tsp matcha powder",
+          "category": "pantry"
+        },
+        {
+          "name": "protein powder",
+          "quantity": 1.0,
+          "unit": "scoop",
+          "notes": "vanilla or unflavored",
+          "raw_text": "1 scoop vanilla or unflavored protein powder",
+          "category": "protein"
+        },
+        {
+          "name": "unsweetened almond milk",
+          "quantity": 1.0,
+          "unit": "cup",
+          "notes": "or any milk of choice",
+          "raw_text": "1 cup unsweetened almond milk (or any milk of choice)",
+          "category": "beverage"
+        },
+        {
+          "name": "chia seeds",
+          "quantity": 1.0,
+          "unit": "tsp",
+          "notes": "optional, for added fiber",
+          "raw_text": "1 tsp chia seeds (optional, for added fiber)",
+          "category": "pantry"
+        },
+        {
+          "name": "ice",
+          "quantity": 1.0,
+          "unit": "handful",
+          "notes": "optional",
+          "raw_text": "Handful of ice (optional)",
+          "category": "other"
+        }
+      ],
+      "steps": [
+        "Add the frozen banana to a blender.",
+        "Add the matcha powder and protein powder.",
+        "Pour in the unsweetened almond milk.",
+        "Add chia seeds if using, and a handful of ice if desired.",
+        "Blend on high until smooth and creamy.",
+        "Pour into a glass and serve immediately."
+      ],
+      "added_at": "2026-04-28T03:31:47.600105+00:00"
     }
   ],
-  "updated_at": "2026-04-11T01:23:15.204814+00:00"
+  "updated_at": "2026-04-28T03:31:47.600110+00:00"
 }

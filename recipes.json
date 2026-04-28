@@ -5,7 +5,7 @@
       "title": "96 Calorie Protein Cakey Frosted Cosmic Brownie",
       "description": "A high-protein, low-calorie cakey brownie topped with a creamy chocolate frosting and optional confetti chips. Each brownie is under 100 calories and packed with protein thanks to pumpkin, egg whites, and protein powder.",
       "cuisine": "American",
-      "meal_type": "snack",
+      "meal_type": "dessert",
       "tags": [
         "high-protein",
         "low-calorie",
@@ -338,7 +338,7 @@
       "title": "Loaded Egg Salad",
       "description": "A hearty and flavorful egg salad loaded with crispy bacon, sun-dried tomatoes, shallots, and fresh dill. Perfect on toast, as a dip, or eaten straight from the container.",
       "cuisine": "American",
-      "meal_type": "breakfast",
+      "meal_type": "lunch",
       "tags": [
         "egg salad",
         "meal prep",
@@ -689,7 +689,7 @@
       "title": "Tiramisu Bowl",
       "description": "A high-protein twist on classic tiramisu made with vanilla Greek yogurt, espresso, and ladyfinger cookies. Ready in minutes and best enjoyed after chilling overnight.",
       "cuisine": "Italian",
-      "meal_type": "snack",
+      "meal_type": "dessert",
       "tags": [
         "high-protein",
         "no-cook",
@@ -773,7 +773,7 @@
       "title": "Keto Peanut Butter Mousse",
       "description": "A fluffy, creamy, and peanut buttery keto-friendly dessert with only 3 net carbs per serving. Quick and easy to make with just a few simple ingredients.",
       "cuisine": "American",
-      "meal_type": "snack",
+      "meal_type": "dessert",
       "tags": [
         "keto",
         "low-carb",
@@ -926,7 +926,7 @@
       "title": "Protein Oreo Cheesecake Cups (Cottage Cheese)",
       "description": "A high-protein, no-bake cheesecake cup made with cottage cheese and Oreo cookies. Each serving delivers around 308 calories and 34g of protein.",
       "cuisine": "American",
-      "meal_type": "snack",
+      "meal_type": "dessert",
       "tags": [
         "high-protein",
         "no-bake",
@@ -1004,7 +1004,7 @@
       "title": "Spicy Tuna Crispy Rice",
       "description": "Golden, pan-fried sushi rice squares topped with a creamy, spicy tuna mixture and fresh avocado. A restaurant-style appetizer that's bold, satisfying, and visually stunning.",
       "cuisine": "Japanese-Fusion",
-      "meal_type": "snack",
+      "meal_type": "lunch",
       "tags": [
         "spicy",
         "sushi",
@@ -1155,7 +1155,7 @@
       "title": "Overnight Chocolate Chip Protein Cookie Dough",
       "description": "A high-protein, edible cookie dough made with vanilla protein powder and Greek yogurt. Refrigerate overnight for a thick, scoopable treat that tastes indulgent but fits your macros.",
       "cuisine": "American",
-      "meal_type": "snack",
+      "meal_type": "dessert",
       "tags": [
         "high-protein",
         "no-bake",
@@ -2023,7 +2023,7 @@
       "title": "Oat Recharge Smoothie",
       "description": "A creamy, comforting smoothie that blends the soluble fiber of oats with the anti-inflammatory benefits of cinnamon. Ideal for those with sensitive stomachs, it helps regulate digestion and keeps you feeling satisfied for longer.",
       "cuisine": "American",
-      "meal_type": "breakfast",
+      "meal_type": "smoothie",
       "tags": [
         "smoothie",
         "gut-health",
@@ -2122,7 +2122,7 @@
       "title": "Pineapple Power Smoothie",
       "description": "A gut-health smoothie that blends probiotic-rich yoghurt with the digestive benefits of pineapple to support gut health and alleviate feelings of bloating. Creamy, tangy, and packed with nutrients to help refuel and recover after a high-intensity workout.",
       "cuisine": "American",
-      "meal_type": "snack",
+      "meal_type": "smoothie",
       "tags": [
         "smoothie",
         "gut-health",
@@ -2212,7 +2212,7 @@
       "title": "Coconut Cucumber Tonic",
       "description": "A light, refreshing and hydrating gut-healing smoothie perfect for after a cardio workout. Cucumber supports digestion and hydration, while coconut water delivers electrolytes, with mint and lime adding a zesty finish.",
       "cuisine": "American",
-      "meal_type": "snack",
+      "meal_type": "smoothie",
       "tags": [
         "smoothie",
         "healthy",
@@ -2312,7 +2312,7 @@
       "title": "Afterburn Elixir",
       "description": "A gut-healing smoothie harnessing the anti-inflammatory properties of turmeric and ginger with a fiber boost from banana. Supports immune health and is ideal pre-workout.",
       "cuisine": "American",
-      "meal_type": "breakfast",
+      "meal_type": "smoothie",
       "tags": [
         "smoothie",
         "anti-inflammatory",
@@ -2411,7 +2411,7 @@
       "title": "Berry Blitz",
       "description": "A gut-health smoothie bursting with antioxidants and natural sweetness that supports digestion and helps reduce inflammation. Packed with mixed berries and a creamy base, it's a delicious way to nourish your gut and keep your energy steady.",
       "cuisine": "American",
-      "meal_type": "breakfast",
+      "meal_type": "smoothie",
       "tags": [
         "smoothie",
         "gut-health",
@@ -2496,7 +2496,7 @@
       "title": "Green Giant",
       "description": "A gut-healing green smoothie packed with nutrients and gentle to digest. Loaded with leafy greens, hydrating cucumber, and gut-friendly ingredients to keep your body balanced and calories low.",
       "cuisine": "American",
-      "meal_type": "snack",
+      "meal_type": "smoothie",
       "tags": [
         "healthy",
         "gut-health",
@@ -2588,7 +2588,7 @@
       "title": "Matcha Muscle",
       "description": "A performance-boosting smoothie combining antioxidants from matcha, fiber from banana, and muscle-repairing protein powder to drive performance and elevate recovery after a resistance workout.",
       "cuisine": "American",
-      "meal_type": "snack",
+      "meal_type": "smoothie",
       "tags": [
         "smoothie",
         "post-workout",
@@ -2667,5 +2667,5 @@
       "added_at": "2026-04-28T03:31:47.600105+00:00"
     }
   ],
-  "updated_at": "2026-04-28T03:31:47.600110+00:00"
+  "updated_at": "2026-04-28T00:00:00Z"
 }
